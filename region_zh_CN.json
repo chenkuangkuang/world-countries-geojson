@@ -1,0 +1,4848 @@
+{
+  "DE": {
+    "name": "德国",
+    "regions": {
+      "DE_Erfurt": {
+        "name": "爱尔福特"
+      },
+      "DE_Arnsberg": {
+        "name": "阿恩斯贝格"
+      },
+      "DE_Augsburg": {
+        "name": "奥格斯堡"
+      },
+      "DE_Ansbach": {
+        "name": "安斯巴格"
+      },
+      "DE_Potsdam": {
+        "name": "波茨坦"
+      },
+      "DE_Bochum": {
+        "name": "波鸿"
+      },
+      "DE_Berlin": {
+        "name": "柏林"
+      },
+      "DE_Bielefeld": {
+        "name": "比勒费尔德"
+      },
+      "DE_Bremen": {
+        "name": "不来梅"
+      },
+      "DE_Brunswick": {
+        "name": "不伦瑞克"
+      },
+      "DE_Bayreuth": {
+        "name": "拜伊罗特"
+      },
+      "DE_Dresden": {
+        "name": "德累斯顿"
+      },
+      "DE_Darmstadt": {
+        "name": "达姆施塔特"
+      },
+      "DE_Dessau": {
+        "name": "德绍"
+      },
+      "DE_Dusseldorf": {
+        "name": "杜塞尔多夫"
+      },
+      "DE_Detmold": {
+        "name": "代特莫尔特"
+      },
+      "DE_Freiburg": {
+        "name": "弗赖堡"
+      },
+      "DE_Frankfurt": {
+        "name": "法兰克福"
+      },
+      "DE_Hamburg": {
+        "name": "汉堡"
+      },
+      "DE_Halle": {
+        "name": "哈雷"
+      },
+      "DE_Hannover": {
+        "name": "汉诺威"
+      },
+      "DE_Kiel": {
+        "name": "基尔"
+      },
+      "DE_GieBen": {
+        "name": "吉森"
+      },
+      "DE_Koblenz": {
+        "name": "科布伦次"
+      },
+      "DE_Cologne": {
+        "name": "科隆"
+      },
+      "DE_Chemnitz": {
+        "name": "开姆尼斯"
+      },
+      "DE_Leipzig": {
+        "name": "莱比锡"
+      },
+      "DE_Landshut": {
+        "name": "兰茨胡特"
+      },
+      "DE_Luneburg": {
+        "name": "吕讷堡"
+      },
+      "DE_Magdeburg": {
+        "name": "马格德堡"
+      },
+      "DE_Mannheim": {
+        "name": "曼海姆"
+      },
+      "DE_Munich": {
+        "name": "慕尼黑"
+      },
+      "DE_Muenster": {
+        "name": "明斯特"
+      },
+      "DE_Mainz": {
+        "name": "美因兹"
+      },
+      "DE_Nuremberg": {
+        "name": "纽伦堡"
+      },
+      "DE_Karlsruhe": {
+        "name": "卡尔斯鲁厄"
+      },
+      "DE_Kassel": {
+        "name": "卡塞尔"
+      },
+      "DE_Stuttgart": {
+        "name": "斯图加特"
+      },
+      "DE_Schwerin": {
+        "name": "什未林"
+      },
+      "DE_Trier": {
+        "name": "特里尔"
+      },
+      "DE_Wuerzburg": {
+        "name": "维尔茨堡"
+      },
+      "DE_Wiesbaden": {
+        "name": "威斯巴登"
+      }
+    }
+  },
+  "MO": {
+    "name": "澳门",
+    "regions": {
+      "MO_Cathedral": {
+        "name": "大堂区"
+      },
+      "MO_Coloane": {
+        "name": "路环岛"
+      },
+      "MO_Fatima": {
+        "name": "花地玛堂区"
+      },
+      "MO_St. Anthony": {
+        "name": "圣安多尼堂区"
+      },
+      "MO_St. Lawrence": {
+        "name": "风顺堂区"
+      },
+      "MO_St. Lazarus": {
+        "name": "望德堂区"
+      },
+      "MO_Taipa": {
+        "name": "氹仔"
+      }
+    }
+  },
+  "TW": {
+    "name": "台湾",
+    "regions": {
+      "TW_New Taipei": {
+        "name": "新北市"
+      },
+      "TW_Kaohsiung": {
+        "name": "高雄市"
+      },
+      "TW_Taichung": {
+        "name": "台中市"
+      },
+      "TW_Taipei": {
+        "name": "台北市"
+      },
+      "TW_Tainan": {
+        "name": "台南市"
+      },
+      "TW_Hsinchu": {
+        "name": "新竹市"
+      },
+      "TW_Taoyuan": {
+        "name": "桃园市"
+      },
+      "TW_Keelung": {
+        "name": "基隆市"
+      },
+      "TW_Zhongli": {
+        "name": "中坜市"
+      },
+      "TW_Chiayi": {
+        "name": "嘉义市"
+      },
+      "TW_Changhua": {
+        "name": "彰化市"
+      },
+      "TW_Pingzhen": {
+        "name": "平镇市"
+      },
+      "TW_Pingtung": {
+        "name": "屏东市"
+      },
+      "TW_Bade": {
+        "name": "八德市"
+      },
+      "TW_Yangmei": {
+        "name": "杨梅市"
+      },
+      "TW_Zhubei": {
+        "name": "竹北市"
+      },
+      "TW_Hualien": {
+        "name": "花莲市"
+      },
+      "TW_Douliu": {
+        "name": "斗六市"
+      },
+      "TW_Taitung": {
+        "name": "台东市"
+      },
+      "TW_Nantou": {
+        "name": "南投市"
+      },
+      "TW_Yilan": {
+        "name": "宜兰市"
+      },
+      "TW_Miaoli": {
+        "name": "苗栗市"
+      },
+      "TW_Magong": {
+        "name": "马公市"
+      },
+      "TW_Puzi": {
+        "name": "朴子市"
+      },
+      "TW_Taibao": {
+        "name": "太保市"
+      }
+    }
+  },
+  "HK": {
+    "name": "香港特别行政区",
+    "regions": {
+      "HK_New Territories": {
+        "name": "新界"
+      },
+      "HK_Kowloon": {
+        "name": "九龙"
+      },
+      "HK_Hong Kong Island": {
+        "name": "香港岛"
+      }
+    }
+  },
+  "JP": {
+    "name": "日本",
+    "regions": {
+      "JP_Ehime": {
+        "name": "爱媛"
+      },
+      "JP_Aichi": {
+        "name": "爱知"
+      },
+      "JP_Hokkaido": {
+        "name": "北海道"
+      },
+      "JP_Hyogo": {
+        "name": "兵库"
+      },
+      "JP_Miyagi": {
+        "name": "宮城"
+      },
+      "JP_Ibaraki": {
+        "name": "茨城"
+      },
+      "JP_Nagasaki": {
+        "name": "长崎"
+      },
+      "JP_Okinawa": {
+        "name": "冲绳"
+      },
+      "JP_Nagano": {
+        "name": "长野"
+      },
+      "JP_Osaka": {
+        "name": "大阪"
+      },
+      "JP_Tokushima": {
+        "name": "徳岛"
+      },
+      "JP_Oita": {
+        "name": "大分"
+      },
+      "JP_Shimane": {
+        "name": "岛根"
+      },
+      "JP_Tokyo": {
+        "name": "东京"
+      },
+      "JP_Fukushima": {
+        "name": "福岛"
+      },
+      "JP_Fukuoka": {
+        "name": "福冈"
+      },
+      "JP_Fukui": {
+        "name": "福井"
+      },
+      "JP_Toyama": {
+        "name": "富山"
+      },
+      "JP_Hiroshima": {
+        "name": "广岛"
+      },
+      "JP_Miyazaki": {
+        "name": "宫崎"
+      },
+      "JP_Okayama": {
+        "name": "冈山"
+      },
+      "JP_Kochi": {
+        "name": "高知"
+      },
+      "JP_Wakayama": {
+        "name": "和歌山"
+      },
+      "JP_Kyoto": {
+        "name": "京都"
+      },
+      "JP_Shizuoka": {
+        "name": "静冈"
+      },
+      "JP_Kagoshima": {
+        "name": "鹿儿岛"
+      },
+      "JP_Tochigi": {
+        "name": "枥木"
+      },
+      "JP_Nara": {
+        "name": "奈良"
+      },
+      "JP_Tottori": {
+        "name": "鸟取"
+      },
+      "JP_Gifu": {
+        "name": "岐阜"
+      },
+      "JP_Gunma": {
+        "name": "群马"
+      },
+      "JP_Aomori": {
+        "name": "青森"
+      },
+      "JP_Akita": {
+        "name": "秋田"
+      },
+      "JP_Saitama": {
+        "name": "埼玉"
+      },
+      "JP_Chiba": {
+        "name": "千叶"
+      },
+      "JP_Mie": {
+        "name": "三重"
+      },
+      "JP_Ishikawa": {
+        "name": "石川"
+      },
+      "JP_Yamaguchi": {
+        "name": "山口"
+      },
+      "JP_Yamanashi": {
+        "name": "山梨"
+      },
+      "JP_Kanagawa": {
+        "name": "神奈川"
+      },
+      "JP_Yamagata": {
+        "name": "山形"
+      },
+      "JP_Kumamoto": {
+        "name": "熊本"
+      },
+      "JP_Kagawa": {
+        "name": "香川"
+      },
+      "JP_Niigata": {
+        "name": "新潟"
+      },
+      "JP_Iwate": {
+        "name": "岩手"
+      },
+      "JP_Shiga": {
+        "name": "滋贺"
+      },
+      "JP_Saga": {
+        "name": "佐贺"
+      }
+    }
+  },
+  "KR": {
+    "name": "韩国",
+    "regions": {
+      "KR_Daegu": {
+        "name": "大邱",
+        "regions": {
+          "KR_Daegu_Dalseong-gun": {
+            "name": "达城郡"
+          },
+          "KR_Daegu_Daegu": {
+            "name": "大邱"
+          },
+          "KR_Daegu_Suseong-gu": {
+            "name": "寿城区"
+          }
+        }
+      },
+      "KR_Daejeon": {
+        "name": "大田"
+      },
+      "KR_Busan": {
+        "name": "釜山"
+      },
+      "KR_Gwangju": {
+        "name": "光州"
+      },
+      "KR_Gangwon-do": {
+        "name": "江原道",
+        "regions": {
+          "KR_Gangwon-do_Chuncheon": {
+            "name": "春川市"
+          },
+          "KR_Gangwon-do_Donghae": {
+            "name": "东海市"
+          },
+          "KR_Gangwon-do_Goseong County": {
+            "name": "高城郡"
+          },
+          "KR_Gangwon-do_Hongcheon County": {
+            "name": "洪川郡"
+          },
+          "KR_Gangwon-do_Hoengseong County": {
+            "name": "横城郡"
+          },
+          "KR_Gangwon-do_Hwacheon County": {
+            "name": "华川郡"
+          },
+          "KR_Gangwon-do_Gangneung": {
+            "name": "江陵市"
+          },
+          "KR_Gangwon-do_Jeongseon County": {
+            "name": "旌善郡"
+          },
+          "KR_Gangwon-do_Inje County": {
+            "name": "麟蹄郡"
+          },
+          "KR_Gangwon-do_Yeongwol County": {
+            "name": "宁越郡"
+          },
+          "KR_Gangwon-do_Pyeongchang County": {
+            "name": "平昌郡"
+          },
+          "KR_Gangwon-do_Sokcho": {
+            "name": "束草市"
+          },
+          "KR_Gangwon-do_Samcheok": {
+            "name": "三陟市"
+          },
+          "KR_Gangwon-do_Taebaek": {
+            "name": "太白市"
+          },
+          "KR_Gangwon-do_Cheorwon County": {
+            "name": "铁原郡"
+          },
+          "KR_Gangwon-do_Yangyang County": {
+            "name": "襄阳郡"
+          },
+          "KR_Gangwon-do_Yanggu County": {
+            "name": "杨口郡"
+          },
+          "KR_Gangwon-do_Wonju": {
+            "name": "原州市"
+          }
+        }
+      },
+      "KR_Jeju-do": {
+        "name": "济州岛",
+        "regions": {
+          "KR_Jeju-do_Anseong": {
+            "name": "安城市"
+          },
+          "KR_Jeju-do_Ansan": {
+            "name": "安山市"
+          },
+          "KR_Jeju-do_Anyang": {
+            "name": "安养市"
+          },
+          "KR_Jeju-do_Pocheon": {
+            "name": "抱川市"
+          },
+          "KR_Jeju-do_Seongnam": {
+            "name": "城南市"
+          },
+          "KR_Jeju-do_Dongducheon": {
+            "name": "东豆川市"
+          },
+          "KR_Jeju-do_Bucheon": {
+            "name": "富川市"
+          },
+          "KR_Jeju-do_Gwacheon": {
+            "name": "果川市"
+          },
+          "KR_Jeju-do_Gwangmyeong": {
+            "name": "光明市"
+          },
+          "KR_Jeju-do_Goyang": {
+            "name": "高阳市"
+          },
+          "KR_Jeju-do_Gwangju": {
+            "name": "广州市"
+          },
+          "KR_Jeju-do_Hwaseong": {
+            "name": "华城市"
+          },
+          "KR_Jeju-do_Hanam": {
+            "name": "河南市"
+          },
+          "KR_Jeju-do_Guri": {
+            "name": "九里市"
+          },
+          "KR_Jeju-do_Gapyeong County": {
+            "name": "加平郡"
+          },
+          "KR_Jeju-do_Gunpo": {
+            "name": "军浦市"
+          },
+          "KR_Jeju-do_Gimpo": {
+            "name": "金浦市"
+          },
+          "KR_Jeju-do_Yeoncheon County": {
+            "name": "涟川郡"
+          },
+          "KR_Jeju-do_Icheon": {
+            "name": "利川市"
+          },
+          "KR_Jeju-do_Yongin": {
+            "name": "龙仁市"
+          },
+          "KR_Jeju-do_Yeoju County": {
+            "name": "骊州郡"
+          },
+          "KR_Jeju-do_Namyangju": {
+            "name": "南杨州市"
+          },
+          "KR_Jeju-do_Paju": {
+            "name": "坡州市"
+          },
+          "KR_Jeju-do_Pyeongtaek": {
+            "name": "平泽市"
+          },
+          "KR_Jeju-do_Siheung": {
+            "name": "始兴市"
+          },
+          "KR_Jeju-do_Suwon": {
+            "name": "水原市"
+          },
+          "KR_Jeju-do_Osan": {
+            "name": "乌山市"
+          },
+          "KR_Jeju-do_Yangpyeong County": {
+            "name": "扬平郡"
+          },
+          "KR_Jeju-do_Uiwang": {
+            "name": "仪旺市"
+          },
+          "KR_Jeju-do_Uijeongbu": {
+            "name": "议政府"
+          },
+          "KR_Jeju-do_Yangju": {
+            "name": "杨州市"
+          }
+        }
+      },
+      "KR_Gyeonggi-do": {
+        "name": "济州特别自治道"
+      },
+      "KR_Gyeongsangbuk-do": {
+        "name": "全罗北道",
+        "regions": {
+          "KR_Gyeongsangbuk-do_Sunchang County": {
+            "name": "淳昌郡"
+          },
+          "KR_Gyeongsangbuk-do_Jangsu County": {
+            "name": "长水郡"
+          },
+          "KR_Gyeongsangbuk-do_Buan County": {
+            "name": "扶安郡"
+          },
+          "KR_Gyeongsangbuk-do_Gochang County": {
+            "name": "高敞郡"
+          },
+          "KR_Gyeongsangbuk-do_Gimje": {
+            "name": "金堤市"
+          },
+          "KR_Gyeongsangbuk-do_Jeongeup": {
+            "name": "井邑市"
+          },
+          "KR_Gyeongsangbuk-do_Muju County": {
+            "name": "茂朱郡"
+          },
+          "KR_Gyeongsangbuk-do_Namwon": {
+            "name": "南原市"
+          },
+          "KR_Gyeongsangbuk-do_Gunsan": {
+            "name": "群山市"
+          },
+          "KR_Gyeongsangbuk-do_Jeonju": {
+            "name": "全州市"
+          },
+          "KR_Gyeongsangbuk-do_Imsil County": {
+            "name": "任实郡"
+          },
+          "KR_Gyeongsangbuk-do_Wanju County": {
+            "name": "完州郡"
+          },
+          "KR_Gyeongsangbuk-do_Iksan": {
+            "name": "益山市"
+          },
+          "KR_Gyeongsangbuk-do_Jinan County": {
+            "name": "鎭安郡"
+          }
+        }
+      },
+      "KR_Gyeongsangnam-do": {
+        "name": "全罗南道",
+        "regions": {
+          "KR_Gyeongsangnam-do_Boseong County": {
+            "name": "宝城郡"
+          },
+          "KR_Gyeongsangnam-do_Jangseong County": {
+            "name": "长城郡"
+          },
+          "KR_Gyeongsangnam-do_Jangheung County": {
+            "name": "长兴郡"
+          },
+          "KR_Gyeongsangnam-do_Gokseong County": {
+            "name": "谷城郡"
+          },
+          "KR_Gyeongsangnam-do_Wando County": {
+            "name": "莞岛郡"
+          },
+          "KR_Gyeongsangnam-do_Goheung County": {
+            "name": "高兴郡"
+          },
+          "KR_Gyeongsangnam-do_Gwangyang": {
+            "name": "光阳市"
+          },
+          "KR_Gyeongsangnam-do_Haenam County": {
+            "name": "海南郡"
+          },
+          "KR_Gyeongsangnam-do_Hwasun County": {
+            "name": "和顺郡"
+          },
+          "KR_Gyeongsangnam-do_Gangjin County": {
+            "name": "康津郡"
+          },
+          "KR_Gyeongsangnam-do_Yeonggwang County": {
+            "name": "灵光郡"
+          },
+          "KR_Gyeongsangnam-do_Yeosu": {
+            "name": "丽水市"
+          },
+          "KR_Gyeongsangnam-do_Yeongam County": {
+            "name": "灵岩郡"
+          },
+          "KR_Gyeongsangnam-do_Naju": {
+            "name": "罗州市"
+          },
+          "KR_Gyeongsangnam-do_Mokpo": {
+            "name": "木浦市"
+          },
+          "KR_Gyeongsangnam-do_Gurye County": {
+            "name": "求礼郡"
+          },
+          "KR_Gyeongsangnam-do_Suncheon": {
+            "name": "顺天市"
+          },
+          "KR_Gyeongsangnam-do_Damyang County": {
+            "name": "潭阳郡"
+          },
+          "KR_Gyeongsangnam-do_Muan County": {
+            "name": "务安郡"
+          },
+          "KR_Gyeongsangnam-do_Sinan County": {
+            "name": "新安郡"
+          },
+          "KR_Gyeongsangnam-do_Hampyeong County": {
+            "name": "咸平郡"
+          },
+          "KR_Gyeongsangnam-do_Jindo County": {
+            "name": "珍岛郡"
+          }
+        }
+      },
+      "KR_Chungcheongbuk-do": {
+        "name": "庆尚北道",
+        "regions": {
+          "KR_Chungcheongbuk-do_Andong": {
+            "name": "安东市"
+          },
+          "KR_Chungcheongbuk-do_Cheongdo County": {
+            "name": "淸道郡"
+          },
+          "KR_Chungcheongbuk-do_Bonghwa County": {
+            "name": "奉化郡"
+          },
+          "KR_Chungcheongbuk-do_Goryeong County": {
+            "name": "高灵郡"
+          },
+          "KR_Chungcheongbuk-do_Gumi": {
+            "name": "龟尾市"
+          },
+          "KR_Chungcheongbuk-do_Gimcheon": {
+            "name": "金泉市"
+          },
+          "KR_Chungcheongbuk-do_Gunwi County": {
+            "name": "军威郡"
+          },
+          "KR_Chungcheongbuk-do_Yecheon County": {
+            "name": "醴泉郡"
+          },
+          "KR_Chungcheongbuk-do_Pohang": {
+            "name": "浦项市"
+          },
+          "KR_Chungcheongbuk-do_Chilgok County": {
+            "name": "漆谷郡"
+          },
+          "KR_Chungcheongbuk-do_Gyeongsan": {
+            "name": "庆山市"
+          },
+          "KR_Chungcheongbuk-do_Gyeongju": {
+            "name": "庆州市"
+          },
+          "KR_Chungcheongbuk-do_Yeongju": {
+            "name": "荣州市"
+          },
+          "KR_Chungcheongbuk-do_Cheongsong County": {
+            "name": "靑松郡"
+          },
+          "KR_Chungcheongbuk-do_Sangju": {
+            "name": "尙州市"
+          },
+          "KR_Chungcheongbuk-do_Mungyeong": {
+            "name": "闻庆市"
+          },
+          "KR_Chungcheongbuk-do_Uljin County": {
+            "name": "蔚珍郡"
+          },
+          "KR_Chungcheongbuk-do_Seongju County": {
+            "name": "星州郡"
+          },
+          "KR_Chungcheongbuk-do_Uiseong County": {
+            "name": "义城郡"
+          },
+          "KR_Chungcheongbuk-do_Yeongcheon": {
+            "name": "永川市"
+          },
+          "KR_Chungcheongbuk-do_Yeongdeok County": {
+            "name": "盈德郡"
+          },
+          "KR_Chungcheongbuk-do_Ulleung County": {
+            "name": "郁陵郡"
+          },
+          "KR_Chungcheongbuk-do_Yeongyang County": {
+            "name": "英阳郡"
+          }
+        }
+      },
+      "KR_Chungcheongnam-do": {
+        "name": "庆尚南道",
+        "regions": {
+          "KR_Chungcheongnam-do_Changnyeong County": {
+            "name": "昌宁郡"
+          },
+          "KR_Chungcheongnam-do_Changwon": {
+            "name": "昌原市"
+          },
+          "KR_Chungcheongnam-do_Goseong County": {
+            "name": "固城郡"
+          },
+          "KR_Chungcheongnam-do_Hadong County": {
+            "name": "河东郡"
+          },
+          "KR_Chungcheongnam-do_Geochang County": {
+            "name": "居昌郡"
+          },
+          "KR_Chungcheongnam-do_Gimhae": {
+            "name": "金海市"
+          },
+          "KR_Chungcheongnam-do_Geoje": {
+            "name": "巨济市"
+          },
+          "KR_Chungcheongnam-do_Jinju": {
+            "name": "晋州市"
+          },
+          "KR_Chungcheongnam-do_Yangsan": {
+            "name": "梁山市"
+          },
+          "KR_Chungcheongnam-do_Masan": {
+            "name": "马山市"
+          },
+          "KR_Chungcheongnam-do_Miryang": {
+            "name": "密阳市"
+          },
+          "KR_Chungcheongnam-do_Namhae County": {
+            "name": "南海郡"
+          },
+          "KR_Chungcheongnam-do_Sacheon": {
+            "name": "泗川市"
+          },
+          "KR_Chungcheongnam-do_Sancheong County": {
+            "name": "山淸郡"
+          },
+          "KR_Chungcheongnam-do_Tongyeong": {
+            "name": "统营市"
+          },
+          "KR_Chungcheongnam-do_Haman County": {
+            "name": "咸安郡"
+          },
+          "KR_Chungcheongnam-do_Hapcheon County": {
+            "name": "陜川郡"
+          },
+          "KR_Chungcheongnam-do_Hamyang County": {
+            "name": "咸阳郡"
+          },
+          "KR_Chungcheongnam-do_Uiryeong County": {
+            "name": "宜宁郡"
+          },
+          "KR_Chungcheongnam-do_Jinhae": {
+            "name": "鎭海市"
+          }
+        }
+      },
+      "KR_Incheon": {
+        "name": "仁川"
+      },
+      "KR_Seoul": {
+        "name": "首尔"
+      },
+      "KR_Ulsan": {
+        "name": "蔚山"
+      },
+      "KR_Jeollabuk-do": {
+        "name": "忠清北道",
+        "regions": {
+          "KR_Jeollabuk-do_Boeun County": {
+            "name": "报恩郡"
+          },
+          "KR_Jeollabuk-do_Jecheon": {
+            "name": "堤川市"
+          },
+          "KR_Jeollabuk-do_Danyang County": {
+            "name": "丹阳郡"
+          },
+          "KR_Jeollabuk-do_Goesan County": {
+            "name": "槐山郡"
+          },
+          "KR_Jeollabuk-do_Okcheon County": {
+            "name": "沃川郡"
+          },
+          "KR_Jeollabuk-do_Eumseong County": {
+            "name": "阴城郡"
+          },
+          "KR_Jeollabuk-do_Cheongwon County": {
+            "name": "淸原郡"
+          },
+          "KR_Jeollabuk-do_Yeongdong County": {
+            "name": "永同郡"
+          },
+          "KR_Jeollabuk-do_Jincheon County": {
+            "name": "鎭川郡"
+          },
+          "KR_Jeollabuk-do_Jeungpyeong County": {
+            "name": "曾坪郡"
+          },
+          "KR_Jeollabuk-do_Cheongju": {
+            "name": "淸州市"
+          },
+          "KR_Jeollabuk-do_Chungju": {
+            "name": "忠州市"
+          }
+        }
+      },
+      "KR_Jeollanam-do": {
+        "name": "忠清南道",
+        "regions": {
+          "KR_Jeollanam-do_Boryeong": {
+            "name": "保宁市"
+          },
+          "KR_Jeollanam-do_Buyeo County": {
+            "name": "扶余郡"
+          },
+          "KR_Jeollanam-do_Gongju": {
+            "name": "公州市"
+          },
+          "KR_Jeollanam-do_Hongseong County": {
+            "name": "洪城郡"
+          },
+          "KR_Jeollanam-do_Gyeryong": {
+            "name": "鸡龙市"
+          },
+          "KR_Jeollanam-do_Geumsan County": {
+            "name": "锦山郡"
+          },
+          "KR_Jeollanam-do_Yesan County": {
+            "name": "礼山郡"
+          },
+          "KR_Jeollanam-do_Nonsan": {
+            "name": "论山市"
+          },
+          "KR_Jeollanam-do_Cheongyang County": {
+            "name": "青阳郡"
+          },
+          "KR_Jeollanam-do_Seosan": {
+            "name": "瑞山市"
+          },
+          "KR_Jeollanam-do_Seocheon County": {
+            "name": "舒川郡"
+          },
+          "KR_Jeollanam-do_Taean County": {
+            "name": "泰安郡"
+          },
+          "KR_Jeollanam-do_Cheonan": {
+            "name": "天安市"
+          },
+          "KR_Jeollanam-do_Dangjin County": {
+            "name": "唐津郡"
+          },
+          "KR_Jeollanam-do_Yeongi County": {
+            "name": "燕岐郡"
+          },
+          "KR_Jeollanam-do_Asan": {
+            "name": "牙山市"
+          }
+        }
+      }
+    }
+  },
+  "CN": {
+    "name": "中国",
+    "regions": {
+      "CN_Beijing": {
+        "name": "北京市",
+        "regions": {
+          "CN_Beijing_Dongcheng": {
+            "name": "东城区"
+          },
+          "CN_Beijing_Xicheng": {
+            "name": "西城区"
+          },
+          "CN_Beijing_Chaoyang": {
+            "name": "朝阳区"
+          },
+          "CN_Beijing_Haidian": {
+            "name": "海淀区"
+          },
+          "CN_Beijing_Fengtai": {
+            "name": "丰台区"
+          },
+          "CN_Beijing_Shijingshan": {
+            "name": "石景山区"
+          },
+          "CN_Beijing_Tongzhou": {
+            "name": "通州区"
+          },
+          "CN_Beijing_Shunyi": {
+            "name": "顺义区"
+          },
+          "CN_Beijing_Changping": {
+            "name": "昌平区"
+          },
+          "CN_Beijing_Daxing": {
+            "name": "大兴区"
+          },
+          "CN_Beijing_Mentougou": {
+            "name": "门头沟区"
+          },
+          "CN_Beijing_Fangshan": {
+            "name": "房山区"
+          },
+          "CN_Beijing_Pinggu": {
+            "name": "平谷区"
+          },
+          "CN_Beijing_Huairou": {
+            "name": "怀柔区"
+          },
+          "CN_Beijing_Miyun County": {
+            "name": "密云县"
+          },
+          "CN_Beijing_Yanqing County": {
+            "name": "延庆县"
+          }
+        }
+      },
+      "CN_Chongqing": {
+        "name": "重庆市",
+        "regions": {
+          "CN_Chongqing_Banan": {
+            "name": "巴南区"
+          },
+          "CN_Chongqing_Beibei": {
+            "name": "北碚区"
+          },
+          "CN_Chongqing_Bishan": {
+            "name": "璧山区"
+          },
+          "CN_Chongqing_Changshou": {
+            "name": "长寿区"
+          },
+          "CN_Chongqing_Dadukou": {
+            "name": "大渡口区"
+          },
+          "CN_Chongqing_Dazu": {
+            "name": "大足区"
+          },
+          "CN_Chongqing_Fuling": {
+            "name": "涪陵区"
+          },
+          "CN_Chongqing_Hechuan": {
+            "name": "合川区"
+          },
+          "CN_Chongqing_Jiangbei": {
+            "name": "江北区"
+          },
+          "CN_Chongqing_Jiangjin": {
+            "name": "江津区"
+          },
+          "CN_Chongqing_Jiulongpo": {
+            "name": "九龙坡区"
+          },
+          "CN_Chongqing_Nan'an": {
+            "name": "南岸区"
+          },
+          "CN_Chongqing_Nanchuan": {
+            "name": "南川区"
+          },
+          "CN_Chongqing_Qianjiang": {
+            "name": "黔江区"
+          },
+          "CN_Chongqing_Shapingba": {
+            "name": "沙坪坝区"
+          },
+          "CN_Chongqing_Tongliang": {
+            "name": "铜梁区"
+          },
+          "CN_Chongqing_Qijiang": {
+            "name": "綦江区"
+          },
+          "CN_Chongqing_Wanzhou": {
+            "name": "万州区"
+          },
+          "CN_Chongqing_Yubei": {
+            "name": "渝北区"
+          },
+          "CN_Chongqing_Yongchuan": {
+            "name": "永川区"
+          },
+          "CN_Chongqing_Yuzhong": {
+            "name": "渝中区"
+          }
+        }
+      },
+      "CN_Shanghai": {
+        "name": "上海市",
+        "regions": {
+          "CN_Shanghai_Huangpu": {
+            "name": "黄浦区"
+          },
+          "CN_Shanghai_Xuhui": {
+            "name": "徐汇区"
+          },
+          "CN_Shanghai_Changning": {
+            "name": "长宁区"
+          },
+          "CN_Shanghai_Jing'an": {
+            "name": "静安区"
+          },
+          "CN_Shanghai_Putuo": {
+            "name": "普陀区"
+          },
+          "CN_Shanghai_Zhabei": {
+            "name": "闸北区"
+          },
+          "CN_Shanghai_Hongkou": {
+            "name": "虹口区"
+          },
+          "CN_Shanghai_Yangpu": {
+            "name": "杨浦区"
+          },
+          "CN_Shanghai_Pudong New": {
+            "name": "浦东新区"
+          },
+          "CN_Shanghai_Baoshan": {
+            "name": "宝山区"
+          },
+          "CN_Shanghai_Minhang": {
+            "name": "闵行区"
+          },
+          "CN_Shanghai_Jiading": {
+            "name": "嘉定区"
+          },
+          "CN_Shanghai_Jinshan": {
+            "name": "金山区"
+          },
+          "CN_Shanghai_Songjiang": {
+            "name": "松江区"
+          },
+          "CN_Shanghai_Qingpu": {
+            "name": "青浦区"
+          },
+          "CN_Shanghai_Fengxian": {
+            "name": "奉贤区"
+          },
+          "CN_Shanghai_Chongming County": {
+            "name": "崇明县"
+          }
+        }
+      },
+      "CN_Tianjin": {
+        "name": "天津市",
+        "regions": {
+          "CN_Tianjin_Heping": {
+            "name": "和平区"
+          },
+          "CN_Tianjin_Hexi": {
+            "name": "河西区"
+          },
+          "CN_Tianjin_Hebei": {
+            "name": "河北区"
+          },
+          "CN_Tianjin_Nankai": {
+            "name": "南开区"
+          },
+          "CN_Tianjin_Hedong": {
+            "name": "河东区"
+          },
+          "CN_Tianjin_Hongqiao": {
+            "name": "红桥区"
+          },
+          "CN_Tianjin_Binhai New Area": {
+            "name": "滨海新区"
+          },
+          "CN_Tianjin_Jinnan": {
+            "name": "津南区"
+          },
+          "CN_Tianjin_Dongli": {
+            "name": "东丽区"
+          },
+          "CN_Tianjin_Xiqing": {
+            "name": "西青区"
+          },
+          "CN_Tianjin_Beichen": {
+            "name": "北辰区"
+          },
+          "CN_Tianjin_Baodi": {
+            "name": "宝坻区"
+          },
+          "CN_Tianjin_Wuqing": {
+            "name": "武清区"
+          },
+          "CN_Tianjin_Jixian": {
+            "name": "蓟县"
+          },
+          "CN_Tianjin_Jinghai County": {
+            "name": "静海县"
+          },
+          "CN_Tianjin_Ninghe County": {
+            "name": "宁河县"
+          }
+        }
+      },
+      "CN_Anhui": {
+        "name": "安徽",
+        "regions": {
+          "CN_Anhui_Anqing": {
+            "name": "安庆市"
+          },
+          "CN_Anhui_Bengbu": {
+            "name": "蚌埠市"
+          },
+          "CN_Anhui_Bozhou": {
+            "name": "亳州市"
+          },
+          "CN_Anhui_Chizhou": {
+            "name": "池州市"
+          },
+          "CN_Anhui_Chuzhou": {
+            "name": "滁州市"
+          },
+          "CN_Anhui_Fuyang": {
+            "name": "阜阳市"
+          },
+          "CN_Anhui_Hefei": {
+            "name": "合肥市"
+          },
+          "CN_Anhui_Huaibei": {
+            "name": "淮北市"
+          },
+          "CN_Anhui_Huainan": {
+            "name": "淮南市"
+          },
+          "CN_Anhui_Huangshan": {
+            "name": "黄山市"
+          },
+          "CN_Anhui_Lu'an": {
+            "name": "六安市"
+          },
+          "CN_Anhui_Ma'anshan": {
+            "name": "马鞍山市"
+          },
+          "CN_Anhui_Suzhou": {
+            "name": "宿州市"
+          },
+          "CN_Anhui_Tongling": {
+            "name": "铜陵市"
+          },
+          "CN_Anhui_Wuhu": {
+            "name": "芜湖市"
+          },
+          "CN_Anhui_Xuancheng": {
+            "name": "宣城市"
+          }
+        }
+      },
+      "CN_Fujian": {
+        "name": "福建",
+        "regions": {
+          "CN_Fujian_Fuzhou": {
+            "name": "福州市"
+          },
+          "CN_Fujian_Longyan": {
+            "name": "龙岩市"
+          },
+          "CN_Fujian_Nanping": {
+            "name": "南平市"
+          },
+          "CN_Fujian_Ningde": {
+            "name": "宁德市"
+          },
+          "CN_Fujian_Putian": {
+            "name": "莆田市"
+          },
+          "CN_Fujian_Quanzhou": {
+            "name": "泉州市"
+          },
+          "CN_Fujian_Sanming": {
+            "name": "三明市"
+          },
+          "CN_Fujian_Xiamen": {
+            "name": "厦门市"
+          },
+          "CN_Fujian_Zhangzhou": {
+            "name": "漳州市"
+          }
+        }
+      },
+      "CN_Gansu": {
+        "name": "甘肃",
+        "regions": {
+          "CN_Gansu_Baiyin": {
+            "name": "白银市"
+          },
+          "CN_Gansu_Dingxi": {
+            "name": "定西市"
+          },
+          "CN_Gansu_Jiayuguan": {
+            "name": "嘉峪关市"
+          },
+          "CN_Gansu_Jinchang": {
+            "name": "金昌市"
+          },
+          "CN_Gansu_Jiuquan": {
+            "name": "酒泉市"
+          },
+          "CN_Gansu_Lanzhou": {
+            "name": "兰州市"
+          },
+          "CN_Gansu_Longnan": {
+            "name": "陇南市"
+          },
+          "CN_Gansu_Pingliang": {
+            "name": "平凉市"
+          },
+          "CN_Gansu_Qingyang": {
+            "name": "庆阳市"
+          },
+          "CN_Gansu_Tianshui": {
+            "name": "天水市"
+          },
+          "CN_Gansu_Wuwei": {
+            "name": "武威市"
+          },
+          "CN_Gansu_Zhangye": {
+            "name": "张掖市"
+          }
+        }
+      },
+      "CN_Guangdong": {
+        "name": "广东",
+        "regions": {
+          "CN_Guangdong_Chaozhou": {
+            "name": "潮州市"
+          },
+          "CN_Guangdong_Dongguan": {
+            "name": "东莞市"
+          },
+          "CN_Guangdong_Foshan": {
+            "name": "佛山市"
+          },
+          "CN_Guangdong_Guangzhou": {
+            "name": "广州市"
+          },
+          "CN_Guangdong_Heyuan": {
+            "name": "河源市"
+          },
+          "CN_Guangdong_Huizhou": {
+            "name": "惠州市"
+          },
+          "CN_Guangdong_Jiangmen": {
+            "name": "江门市"
+          },
+          "CN_Guangdong_Jieyang": {
+            "name": "揭阳市"
+          },
+          "CN_Guangdong_Maoming": {
+            "name": "茂名市"
+          },
+          "CN_Guangdong_Meizhou": {
+            "name": "梅州市"
+          },
+          "CN_Guangdong_Qingyuan": {
+            "name": "清远市"
+          },
+          "CN_Guangdong_Shantou": {
+            "name": "汕头市"
+          },
+          "CN_Guangdong_Shanwei": {
+            "name": "汕尾市"
+          },
+          "CN_Guangdong_Shaoguan": {
+            "name": "韶关市"
+          },
+          "CN_Guangdong_Shenzhen": {
+            "name": "深圳市"
+          },
+          "CN_Guangdong_Yangjiang": {
+            "name": "阳江市"
+          },
+          "CN_Guangdong_Yunfu": {
+            "name": "云浮市"
+          },
+          "CN_Guangdong_Zhanjiang": {
+            "name": "湛江市"
+          },
+          "CN_Guangdong_Zhaoqing": {
+            "name": "肇庆市"
+          },
+          "CN_Guangdong_Zhongshan": {
+            "name": "中山市"
+          },
+          "CN_Guangdong_Zhuhai": {
+            "name": "珠海市"
+          }
+        }
+      },
+      "CN_Guangxi": {
+        "name": "广西",
+        "regions": {
+          "CN_Guangxi_Baise": {
+            "name": "百色市"
+          },
+          "CN_Guangxi_Beihai": {
+            "name": "北海市"
+          },
+          "CN_Guangxi_Chongzuo": {
+            "name": "崇左市"
+          },
+          "CN_Guangxi_Fangchenggang": {
+            "name": "防城港市"
+          },
+          "CN_Guangxi_Guigang": {
+            "name": "贵港市"
+          },
+          "CN_Guangxi_Guilin": {
+            "name": "桂林市"
+          },
+          "CN_Guangxi_Hechi": {
+            "name": "河池市"
+          },
+          "CN_Guangxi_Hezhou": {
+            "name": "贺州市"
+          },
+          "CN_Guangxi_Laibin": {
+            "name": "来宾市"
+          },
+          "CN_Guangxi_Liuzhou": {
+            "name": "柳州市"
+          },
+          "CN_Guangxi_Nanning": {
+            "name": "南宁市"
+          },
+          "CN_Guangxi_Qinzhou": {
+            "name": "钦州市"
+          },
+          "CN_Guangxi_Wuzhou": {
+            "name": "梧州市"
+          },
+          "CN_Guangxi_Yulin": {
+            "name": "玉林市"
+          }
+        }
+      },
+      "CN_Guizhou": {
+        "name": "贵州",
+        "regions": {
+          "CN_Guizhou_Anshun": {
+            "name": "安顺市"
+          },
+          "CN_Guizhou_Bijie": {
+            "name": "毕节市"
+          },
+          "CN_Guizhou_Guiyang": {
+            "name": "贵阳市"
+          },
+          "CN_Guizhou_Liupanshui": {
+            "name": "六盘水市"
+          },
+          "CN_Guizhou_Tongren": {
+            "name": "铜仁市"
+          },
+          "CN_Guizhou_Zunyi": {
+            "name": "遵义市"
+          },
+          "CN_Guizhou_Kaili": {
+            "name": "凯里市"
+          }
+        }
+      },
+      "CN_Hainan": {
+        "name": "海南",
+        "regions": {
+          "CN_Hainan_Danzhou": {
+            "name": "儋州市"
+          },
+          "CN_Hainan_Dongfang": {
+            "name": "东方市"
+          },
+          "CN_Hainan_Haikou": {
+            "name": "海口市"
+          },
+          "CN_Hainan_Qionghai": {
+            "name": "琼海市"
+          },
+          "CN_Hainan_Sansha": {
+            "name": "三沙市"
+          },
+          "CN_Hainan_Sanya": {
+            "name": "三亚市"
+          },
+          "CN_Hainan_Wanning": {
+            "name": "万宁市"
+          },
+          "CN_Hainan_Wenchang": {
+            "name": "文昌市"
+          },
+          "CN_Hainan_Wuzhishan": {
+            "name": "五指山市"
+          }
+        }
+      },
+      "CN_Hebei": {
+        "name": "河北",
+        "regions": {
+          "CN_Hebei_Baoding": {
+            "name": "保定市"
+          },
+          "CN_Hebei_Cangzhou": {
+            "name": "沧州市"
+          },
+          "CN_Hebei_Chengde": {
+            "name": "承德市"
+          },
+          "CN_Hebei_Handan": {
+            "name": "邯郸市"
+          },
+          "CN_Hebei_Hengshui": {
+            "name": "衡水市"
+          },
+          "CN_Hebei_Langfang": {
+            "name": "廊坊市"
+          },
+          "CN_Hebei_Qinhuangdao": {
+            "name": "秦皇岛市"
+          },
+          "CN_Hebei_Shijiazhuang": {
+            "name": "石家庄市"
+          },
+          "CN_Hebei_Tangshan": {
+            "name": "唐山市"
+          },
+          "CN_Hebei_Xingtai": {
+            "name": "邢台市"
+          },
+          "CN_Hebei_Zhangjiakou": {
+            "name": "张家口市"
+          }
+        }
+      },
+      "CN_Heilongjiang": {
+        "name": "黑龙江",
+        "regions": {
+          "CN_Heilongjiang_Daqing": {
+            "name": "大庆市"
+          },
+          "CN_Heilongjiang_Harbin": {
+            "name": "哈尔滨市"
+          },
+          "CN_Heilongjiang_Hegang": {
+            "name": "鹤岗市"
+          },
+          "CN_Heilongjiang_Heihe": {
+            "name": "黑河市"
+          },
+          "CN_Heilongjiang_Jiamusi": {
+            "name": "佳木斯市"
+          },
+          "CN_Heilongjiang_Jixi": {
+            "name": "鸡西市"
+          },
+          "CN_Heilongjiang_Mudanjiang": {
+            "name": "牡丹江市"
+          },
+          "CN_Heilongjiang_Qiqihar": {
+            "name": "齐齐哈尔市"
+          },
+          "CN_Heilongjiang_Qitaihe": {
+            "name": "七台河市"
+          },
+          "CN_Heilongjiang_Shuangyashan": {
+            "name": "双鸭山市"
+          },
+          "CN_Heilongjiang_Suihua": {
+            "name": "绥化市"
+          },
+          "CN_Heilongjiang_Yichun": {
+            "name": "伊春市"
+          }
+        }
+      },
+      "CN_Henan": {
+        "name": "河南",
+        "regions": {
+          "CN_Henan_Anyang": {
+            "name": "安阳市"
+          },
+          "CN_Henan_Hebi": {
+            "name": "鹤壁市"
+          },
+          "CN_Henan_Jiaozuo": {
+            "name": "焦作市"
+          },
+          "CN_Henan_Jiyuan": {
+            "name": "济源市"
+          },
+          "CN_Henan_Kaifeng": {
+            "name": "开封市"
+          },
+          "CN_Henan_Luohe": {
+            "name": "漯河市"
+          },
+          "CN_Henan_Luoyang": {
+            "name": "洛阳市"
+          },
+          "CN_Henan_Nanyang": {
+            "name": "南阳市"
+          },
+          "CN_Henan_Pingdingshan": {
+            "name": "平顶山市"
+          },
+          "CN_Henan_Puyang": {
+            "name": "濮阳市"
+          },
+          "CN_Henan_Sanmenxia": {
+            "name": "三门峡市"
+          },
+          "CN_Henan_Shangqiu": {
+            "name": "商丘市"
+          },
+          "CN_Henan_Xinxiang": {
+            "name": "新乡市"
+          },
+          "CN_Henan_Xinyang": {
+            "name": "信阳市"
+          },
+          "CN_Henan_Xuchang": {
+            "name": "许昌市"
+          },
+          "CN_Henan_Zhengzhou": {
+            "name": "郑州市"
+          },
+          "CN_Henan_Zhoukou": {
+            "name": "周口市"
+          },
+          "CN_Henan_Zhumadian": {
+            "name": "驻马店市"
+          }
+        }
+      },
+      "CN_Hubei": {
+        "name": "湖北",
+        "regions": {
+          "CN_Hubei_Ezhou": {
+            "name": "鄂州市"
+          },
+          "CN_Hubei_Huanggang": {
+            "name": "黄冈市"
+          },
+          "CN_Hubei_Huangshi": {
+            "name": "黄石市"
+          },
+          "CN_Hubei_Jingmen": {
+            "name": "荆门市"
+          },
+          "CN_Hubei_Jingzhou": {
+            "name": "荆州市"
+          },
+          "CN_Hubei_Qianjiang": {
+            "name": "潜江市"
+          },
+          "CN_Hubei_Shennongjia": {
+            "name": "神农架林区"
+          },
+          "CN_Hubei_Shiyan": {
+            "name": "十堰市"
+          },
+          "CN_Hubei_Suizhou": {
+            "name": "随州市"
+          },
+          "CN_Hubei_Tianmen": {
+            "name": "天门市"
+          },
+          "CN_Hubei_Wuhan": {
+            "name": "武汉市"
+          },
+          "CN_Hubei_Xiangyang": {
+            "name": "襄阳市"
+          },
+          "CN_Hubei_Xianning": {
+            "name": "咸宁市"
+          },
+          "CN_Hubei_Xiantao": {
+            "name": "仙桃市"
+          },
+          "CN_Hubei_Xiaogan": {
+            "name": "孝感市"
+          },
+          "CN_Hubei_Yichang": {
+            "name": "宜昌市"
+          }
+        }
+      },
+      "CN_Hunan": {
+        "name": "湖南",
+        "regions": {
+          "CN_Hunan_Changde": {
+            "name": "常德市"
+          },
+          "CN_Hunan_Changsha": {
+            "name": "长沙市"
+          },
+          "CN_Hunan_Chenzhou": {
+            "name": "郴州市"
+          },
+          "CN_Hunan_Hengyang": {
+            "name": "衡阳市"
+          },
+          "CN_Hunan_Huaihua": {
+            "name": "怀化市"
+          },
+          "CN_Hunan_Loudi": {
+            "name": "娄底市"
+          },
+          "CN_Hunan_Shaoyang": {
+            "name": "邵阳市"
+          },
+          "CN_Hunan_Xiangtan": {
+            "name": "湘潭市"
+          },
+          "CN_Hunan_Yiyang": {
+            "name": "益阳市"
+          },
+          "CN_Hunan_Yongzhou": {
+            "name": "永州市"
+          },
+          "CN_Hunan_Yueyang": {
+            "name": "岳阳市"
+          },
+          "CN_Hunan_Zhangjiajie": {
+            "name": "张家界市"
+          },
+          "CN_Hunan_Zhuzhou": {
+            "name": "株洲市"
+          }
+        }
+      },
+      "CN_Inner Mongolia": {
+        "name": "内蒙古",
+        "regions": {
+          "CN_Inner Mongolia_Baotou": {
+            "name": "包头市"
+          },
+          "CN_Inner Mongolia_Bayannur": {
+            "name": "巴彦淖尔市"
+          },
+          "CN_Inner Mongolia_Chifeng": {
+            "name": "赤峰市"
+          },
+          "CN_Inner Mongolia_Hohhot": {
+            "name": "呼和浩特市"
+          },
+          "CN_Inner Mongolia_Hulunbuir": {
+            "name": "呼伦贝尔市"
+          },
+          "CN_Inner Mongolia_Ordos": {
+            "name": "鄂尔多斯市"
+          },
+          "CN_Inner Mongolia_Tongliao": {
+            "name": "通辽市"
+          },
+          "CN_Inner Mongolia_Ulanqab": {
+            "name": "乌兰察布市"
+          },
+          "CN_Inner Mongolia_Wuhai": {
+            "name": "乌海市"
+          }
+        }
+      },
+      "CN_Jiangsu": {
+        "name": "江苏",
+        "regions": {
+          "CN_Jiangsu_Changzhou": {
+            "name": "常州市"
+          },
+          "CN_Jiangsu_Huai'an": {
+            "name": "淮安市"
+          },
+          "CN_Jiangsu_Lianyungang": {
+            "name": "连云港市"
+          },
+          "CN_Jiangsu_Nanjing": {
+            "name": "南京市"
+          },
+          "CN_Jiangsu_Nantong": {
+            "name": "南通市"
+          },
+          "CN_Jiangsu_Suqian": {
+            "name": "宿迁市"
+          },
+          "CN_Jiangsu_Suzhou": {
+            "name": "苏州市"
+          },
+          "CN_Jiangsu_Taizhou": {
+            "name": "泰州市"
+          },
+          "CN_Jiangsu_Wuxi": {
+            "name": "无锡市"
+          },
+          "CN_Jiangsu_Xuzhou": {
+            "name": "徐州市"
+          },
+          "CN_Jiangsu_Yancheng": {
+            "name": "盐城市"
+          },
+          "CN_Jiangsu_Yangzhou": {
+            "name": "扬州市"
+          },
+          "CN_Jiangsu_Zhenjiang": {
+            "name": "镇江市"
+          }
+        }
+      },
+      "CN_Jiangxi": {
+        "name": "江西",
+        "regions": {
+          "CN_Jiangxi_Fuzhou": {
+            "name": "抚州市"
+          },
+          "CN_Jiangxi_Ganzhou": {
+            "name": "赣州市"
+          },
+          "CN_Jiangxi_Ji'an": {
+            "name": "吉安市"
+          },
+          "CN_Jiangxi_Jingdezhen": {
+            "name": "景德镇市"
+          },
+          "CN_Jiangxi_Jiujiang": {
+            "name": "九江市"
+          },
+          "CN_Jiangxi_Nanchang": {
+            "name": "南昌市"
+          },
+          "CN_Jiangxi_Pingxiang": {
+            "name": "萍乡市"
+          },
+          "CN_Jiangxi_Shangrao": {
+            "name": "上饶市"
+          },
+          "CN_Jiangxi_Xinyu": {
+            "name": "新余市"
+          },
+          "CN_Jiangxi_Yingtan": {
+            "name": "鹰潭市"
+          },
+          "CN_Jiangxi_Yichun": {
+            "name": "宜春市"
+          }
+        }
+      },
+      "CN_Jilin": {
+        "name": "吉林",
+        "regions": {
+          "CN_Jilin_Baicheng": {
+            "name": "白城市"
+          },
+          "CN_Jilin_Baishan": {
+            "name": "白山市"
+          },
+          "CN_Jilin_Changchun": {
+            "name": "长春市"
+          },
+          "CN_Jilin_Jilin": {
+            "name": "吉林市"
+          },
+          "CN_Jilin_Liaoyuan": {
+            "name": "辽源市"
+          },
+          "CN_Jilin_Siping": {
+            "name": "四平市"
+          },
+          "CN_Jilin_Songyuan": {
+            "name": "松原市"
+          },
+          "CN_Jilin_Tonghua": {
+            "name": "通化市"
+          }
+        }
+      },
+      "CN_Liaoning": {
+        "name": "辽宁",
+        "regions": {
+          "CN_Liaoning_Anshan": {
+            "name": "鞍山市"
+          },
+          "CN_Liaoning_Benxi": {
+            "name": "本溪市"
+          },
+          "CN_Liaoning_Chaoyang": {
+            "name": "朝阳市"
+          },
+          "CN_Liaoning_Dalian": {
+            "name": "大连市"
+          },
+          "CN_Liaoning_Dandong": {
+            "name": "丹东市"
+          },
+          "CN_Liaoning_Fushun": {
+            "name": "抚顺市"
+          },
+          "CN_Liaoning_Fuxin": {
+            "name": "阜新市"
+          },
+          "CN_Liaoning_Huludao": {
+            "name": "葫芦岛市"
+          },
+          "CN_Liaoning_Jinzhou": {
+            "name": "锦州市"
+          },
+          "CN_Liaoning_Liaoyang": {
+            "name": "辽阳市"
+          },
+          "CN_Liaoning_Panjin": {
+            "name": "盘锦市"
+          },
+          "CN_Liaoning_Shenyang": {
+            "name": "沈阳市"
+          },
+          "CN_Liaoning_Tieling": {
+            "name": "铁岭市"
+          },
+          "CN_Liaoning_Yingkou": {
+            "name": "营口市"
+          }
+        }
+      },
+      "CN_Ningxia": {
+        "name": "宁夏",
+        "regions": {
+          "CN_Ningxia_Guyuan": {
+            "name": "固原市"
+          },
+          "CN_Ningxia_Shizuishan": {
+            "name": "石嘴山市"
+          },
+          "CN_Ningxia_Wuzhong": {
+            "name": "吴忠市"
+          },
+          "CN_Ningxia_Yinchuan": {
+            "name": "银川市"
+          },
+          "CN_Ningxia_Zhongwei": {
+            "name": "中卫市"
+          }
+        }
+      },
+      "CN_Qinghai": {
+        "name": "青海",
+        "regions": {
+          "CN_Qinghai_Haidong": {
+            "name": "海东市"
+          },
+          "CN_Qinghai_Xining": {
+            "name": "西宁市"
+          }
+        }
+      },
+      "CN_Shaanxi": {
+        "name": "陕西",
+        "regions": {
+          "CN_Shaanxi_Ankang": {
+            "name": "安康市"
+          },
+          "CN_Shaanxi_Baoji": {
+            "name": "宝鸡市"
+          },
+          "CN_Shaanxi_Hanzhong": {
+            "name": "汉中市"
+          },
+          "CN_Shaanxi_Shangluo": {
+            "name": "商洛市"
+          },
+          "CN_Shaanxi_Tongchuan": {
+            "name": "铜川市"
+          },
+          "CN_Shaanxi_Xi'an": {
+            "name": "西安市"
+          },
+          "CN_Shaanxi_Xianyang": {
+            "name": "咸阳市"
+          },
+          "CN_Shaanxi_Weinan": {
+            "name": "渭南市"
+          },
+          "CN_Shaanxi_Yan'an": {
+            "name": "延安市"
+          },
+          "CN_Shaanxi_Yulin": {
+            "name": "榆林市"
+          }
+        }
+      },
+      "CN_Shandong": {
+        "name": "山东",
+        "regions": {
+          "CN_Shandong_Binzhou": {
+            "name": "滨州市"
+          },
+          "CN_Shandong_Dezhou": {
+            "name": "德州市"
+          },
+          "CN_Shandong_Dongying": {
+            "name": "东营市"
+          },
+          "CN_Shandong_Heze": {
+            "name": "菏泽市"
+          },
+          "CN_Shandong_Jinan": {
+            "name": "济南市"
+          },
+          "CN_Shandong_Jining": {
+            "name": "济宁市"
+          },
+          "CN_Shandong_Laiwu": {
+            "name": "莱芜市"
+          },
+          "CN_Shandong_Liaocheng": {
+            "name": "聊城市"
+          },
+          "CN_Shandong_Linyi": {
+            "name": "临沂市"
+          },
+          "CN_Shandong_Qingdao": {
+            "name": "青岛市"
+          },
+          "CN_Shandong_Rizhao": {
+            "name": "日照市"
+          },
+          "CN_Shandong_Tai'an": {
+            "name": "泰安市"
+          },
+          "CN_Shandong_Weifang": {
+            "name": "潍坊市"
+          },
+          "CN_Shandong_Weihai": {
+            "name": "威海市"
+          },
+          "CN_Shandong_Yantai": {
+            "name": "烟台市"
+          },
+          "CN_Shandong_Zaozhuang": {
+            "name": "枣庄市"
+          },
+          "CN_Shandong_Zibo": {
+            "name": "淄博市"
+          }
+        }
+      },
+      "CN_Shanxi": {
+        "name": "山西",
+        "regions": {
+          "CN_Shanxi_Changzhi": {
+            "name": "长治市"
+          },
+          "CN_Shanxi_Datong": {
+            "name": "大同市"
+          },
+          "CN_Shanxi_Jincheng": {
+            "name": "晋城市"
+          },
+          "CN_Shanxi_Jinzhong": {
+            "name": "晋中市"
+          },
+          "CN_Shanxi_Linfen": {
+            "name": "临汾市"
+          },
+          "CN_Shanxi_Lüliang": {
+            "name": "吕梁市"
+          },
+          "CN_Shanxi_Shuozhou": {
+            "name": "朔州市"
+          },
+          "CN_Shanxi_Taiyuan": {
+            "name": "太原市"
+          },
+          "CN_Shanxi_Xinzhou": {
+            "name": "忻州市"
+          },
+          "CN_Shanxi_Yangquan": {
+            "name": "阳泉市"
+          },
+          "CN_Shanxi_Yuncheng": {
+            "name": "运城市"
+          }
+        }
+      },
+      "CN_Sichuan": {
+        "name": "四川",
+        "regions": {
+          "CN_Sichuan_Bazhong": {
+            "name": "巴中市"
+          },
+          "CN_Sichuan_Chengdu": {
+            "name": "成都市"
+          },
+          "CN_Sichuan_Dazhou": {
+            "name": "达州市"
+          },
+          "CN_Sichuan_Deyang": {
+            "name": "德阳市"
+          },
+          "CN_Sichuan_Guang'an": {
+            "name": "广安市"
+          },
+          "CN_Sichuan_Guangyuan": {
+            "name": "广元市"
+          },
+          "CN_Sichuan_Leshan": {
+            "name": "乐山市"
+          },
+          "CN_Sichuan_Luzhou": {
+            "name": "泸州市"
+          },
+          "CN_Sichuan_Meishan": {
+            "name": "眉山市"
+          },
+          "CN_Sichuan_Mianyang": {
+            "name": "绵阳市"
+          },
+          "CN_Sichuan_Neijiang": {
+            "name": "内江市"
+          },
+          "CN_Sichuan_Nanchong": {
+            "name": "南充市"
+          },
+          "CN_Sichuan_Panzhihua": {
+            "name": "攀枝花市"
+          },
+          "CN_Sichuan_Suining": {
+            "name": "遂宁市"
+          },
+          "CN_Sichuan_Ya'an": {
+            "name": "雅安市"
+          },
+          "CN_Sichuan_Yibin": {
+            "name": "宜宾市"
+          },
+          "CN_Sichuan_Zigong": {
+            "name": "自贡市"
+          },
+          "CN_Sichuan_Ziyang": {
+            "name": "资阳市"
+          }
+        }
+      },
+      "CN_Tibet": {
+        "name": "西藏",
+        "regions": {
+          "CN_Tibet_Lhasa": {
+            "name": "拉萨市"
+          },
+          "CN_Tibet_Xigazê": {
+            "name": "日喀则市"
+          }
+        }
+      },
+      "CN_Xinjiang": {
+        "name": "新疆",
+        "regions": {
+          "CN_Xinjiang_Aral": {
+            "name": "阿拉尔市"
+          },
+          "CN_Xinjiang_Aksu": {
+            "name": "阿克苏市"
+          },
+          "CN_Xinjiang_Beitun": {
+            "name": "北屯市"
+          },
+          "CN_Xinjiang_Karamay": {
+            "name": "克拉玛依市"
+          },
+          "CN_Xinjiang_Shihezi": {
+            "name": "石河子市"
+          },
+          "CN_Xinjiang_Shuanghe": {
+            "name": "双河市"
+          },
+          "CN_Xinjiang_Tumxuk": {
+            "name": "图木舒克市"
+          },
+          "CN_Xinjiang_Korla": {
+            "name": "库尔勒市"
+          },
+          "CN_Xinjiang_Tiemenguan": {
+            "name": "铁门关市"
+          },
+          "CN_Xinjiang_Ürümqi": {
+            "name": "乌鲁木齐市"
+          },
+          "CN_Xinjiang_Wujiaqu": {
+            "name": "五家渠市"
+          }
+        }
+      },
+      "CN_Yunnan": {
+        "name": "云南",
+        "regions": {
+          "CN_Yunnan_Baoshan": {
+            "name": "保山市"
+          },
+          "CN_Yunnan_Kunming": {
+            "name": "昆明市"
+          },
+          "CN_Yunnan_Lincang": {
+            "name": "临沧市"
+          },
+          "CN_Yunnan_Lijiang": {
+            "name": "丽江市"
+          },
+          "CN_Yunnan_Dali": {
+            "name": "大理市"
+          },
+          "CN_Yunnan_Pu'er": {
+            "name": "普洱市"
+          },
+          "CN_Yunnan_Qujing": {
+            "name": "曲靖市"
+          },
+          "CN_Yunnan_Yuxi": {
+            "name": "玉溪市"
+          },
+          "CN_Yunnan_Zhaotong": {
+            "name": "昭通市"
+          }
+        }
+      },
+      "CN_Zhejiang": {
+        "name": "浙江",
+        "regions": {
+          "CN_Zhejiang_Hangzhou": {
+            "name": "杭州市"
+          },
+          "CN_Zhejiang_Huzhou": {
+            "name": "湖州市"
+          },
+          "CN_Zhejiang_Jiaxing": {
+            "name": "嘉兴市"
+          },
+          "CN_Zhejiang_Jinhua": {
+            "name": "金华市"
+          },
+          "CN_Zhejiang_Lishui": {
+            "name": "丽水市"
+          },
+          "CN_Zhejiang_Ningbo": {
+            "name": "宁波市"
+          },
+          "CN_Zhejiang_Quzhou": {
+            "name": "衢州市"
+          },
+          "CN_Zhejiang_Shaoxing": {
+            "name": "绍兴市"
+          },
+          "CN_Zhejiang_Taizhou": {
+            "name": "台州市"
+          },
+          "CN_Zhejiang_Wenzhou": {
+            "name": "温州市"
+          },
+          "CN_Zhejiang_Zhoushan": {
+            "name": "舟山市"
+          }
+        }
+      }
+    }
+  },
+  "IT": {
+    "name": "意大利",
+    "regions": {
+      "IT_Olbia-Tempio": {
+        "name": "奥尔比亚"
+      },
+      "IT_Ancona": {
+        "name": "安科纳"
+      },
+      "IT_Oristano": {
+        "name": "奥里斯塔诺"
+      },
+      "IT_Asti": {
+        "name": "阿斯蒂"
+      },
+      "IT_Ascoli Piceno": {
+        "name": "阿斯科利皮切诺"
+      },
+      "IT_Aosta": {
+        "name": "奥斯塔"
+      },
+      "IT_Pordenone": {
+        "name": "波代诺内"
+      },
+      "IT_Bergamo": {
+        "name": "贝加莫"
+      },
+      "IT_Bari": {
+        "name": "巴里"
+      },
+      "IT_Biella": {
+        "name": "布拉"
+      },
+      "IT_Brindisi": {
+        "name": "布林迪西"
+      },
+      "IT_Palermo": {
+        "name": "巴勒莫"
+      },
+      "IT_Bologna": {
+        "name": "博洛尼亚"
+      },
+      "IT_Brescia": {
+        "name": "布雷西亚"
+      },
+      "IT_Benevento": {
+        "name": "贝内文托"
+      },
+      "IT_Pisa": {
+        "name": "比萨"
+      },
+      "IT_Potenza": {
+        "name": "波坦察"
+      },
+      "IT_Turin": {
+        "name": "都灵"
+      },
+      "IT_Trieste": {
+        "name": "的里雅斯特"
+      },
+      "IT_Foggia": {
+        "name": "福贾"
+      },
+      "IT_Ferrara": {
+        "name": "费拉拉"
+      },
+      "IT_Firenze": {
+        "name": "佛罗伦萨"
+      },
+      "IT_Campobasso": {
+        "name": "坎波巴索"
+      },
+      "IT_Crotone": {
+        "name": "克罗托内"
+      },
+      "IT_Como": {
+        "name": "科摩"
+      },
+      "IT_Cuneo": {
+        "name": "库内奥"
+      },
+      "IT_Cosenza": {
+        "name": "科森扎"
+      },
+      "IT_Reggio Emilia": {
+        "name": "雷焦艾米利亚"
+      },
+      "IT_Reggio Calabria": {
+        "name": "雷焦卡拉布里亚"
+      },
+      "IT_Lecco": {
+        "name": "莱科"
+      },
+      "IT_L'Aquila": {
+        "name": "拉奎拉"
+      },
+      "IT_Roma": {
+        "name": "罗马"
+      },
+      "IT_Lecce": {
+        "name": "莱切"
+      },
+      "IT_La Spezia": {
+        "name": "拉斯佩齐亚"
+      },
+      "IT_Livorno": {
+        "name": "里窝那"
+      },
+      "IT_Modena": {
+        "name": "摩德纳"
+      },
+      "IT_Milano": {
+        "name": "米兰"
+      },
+      "IT_Massa-Carrara": {
+        "name": "马萨"
+      },
+      "IT_Matera": {
+        "name": "马泰拉"
+      },
+      "IT_Messina": {
+        "name": "墨西拿"
+      },
+      "IT_Monza e Brianza": {
+        "name": "蒙扎"
+      },
+      "IT_Nuoro": {
+        "name": "努奥罗"
+      },
+      "IT_Naples": {
+        "name": "那不勒斯"
+      },
+      "IT_Novara": {
+        "name": "诺瓦拉"
+      },
+      "IT_Parma": {
+        "name": "帕尔马"
+      },
+      "IT_Perugia": {
+        "name": "佩鲁贾"
+      },
+      "IT_Pavia": {
+        "name": "帕维亚"
+      },
+      "IT_Cagliari": {
+        "name": "卡利亚里"
+      },
+      "IT_Caserta": {
+        "name": "卡塞塔"
+      },
+      "IT_Catania": {
+        "name": "卡塔尼亚"
+      },
+      "IT_Catanzaro": {
+        "name": "卡坦扎罗"
+      },
+      "IT_Genova": {
+        "name": "热那亚"
+      },
+      "IT_Salerno": {
+        "name": "萨莱诺"
+      },
+      "IT_Sassari": {
+        "name": "萨萨里"
+      },
+      "IT_Savona": {
+        "name": "萨沃纳"
+      },
+      "IT_Trapani": {
+        "name": "特拉帕尼"
+      },
+      "IT_Trento": {
+        "name": "特伦托"
+      },
+      "IT_Taranto": {
+        "name": "塔兰托"
+      },
+      "IT_Udine": {
+        "name": "乌迪内"
+      },
+      "IT_Vercelli": {
+        "name": "韦尔切利"
+      },
+      "IT_Venice": {
+        "name": "威尼斯"
+      },
+      "IT_Viterbo": {
+        "name": "维泰博"
+      },
+      "IT_Syracuse": {
+        "name": "锡拉库扎"
+      },
+      "IT_Siena": {
+        "name": "锡耶纳"
+      },
+      "IT_Alessandria": {
+        "name": "亚历山德里亚"
+      },
+      "IT_Isernia": {
+        "name": "伊塞尔尼亚"
+      }
+    }
+  },
+  "MY": {
+    "name": "马来西亚",
+    "regions": {
+      "MY_Perlis": {
+        "name": "玻璃市",
+        "regions": {
+          "MY_Perlis_Kangar": {
+            "name": "加央"
+          }
+        }
+      },
+      "MY_Pulau Pinang": {
+        "name": "槟榔屿",
+        "regions": {
+          "MY_Pulau Pinang_George Town": {
+            "name": "槟城"
+          },
+          "MY_Pulau Pinang_Butterworth": {
+            "name": "北海"
+          },
+          "MY_Pulau Pinang_Bukit Mertajam": {
+            "name": "大山脚"
+          },
+          "MY_Pulau Pinang_Nibong Tebal": {
+            "name": "高渊"
+          }
+        }
+      },
+      "MY_Terengganu": {
+        "name": "丁加奴",
+        "regions": {
+          "MY_Terengganu_Kuala Terengganu": {
+            "name": "瓜拉丁加奴"
+          },
+          "MY_Terengganu_Kemaman": {
+            "name": "甘马挽"
+          },
+          "MY_Terengganu_Dungun": {
+            "name": "龙运"
+          },
+          "MY_Terengganu_Marang": {
+            "name": "马江"
+          },
+          "MY_Terengganu_Setiu": {
+            "name": "实兆"
+          },
+          "MY_Terengganu_Hulu": {
+            "name": "乌鲁"
+          },
+          "MY_Terengganu_Besut": {
+            "name": "勿述"
+          }
+        }
+      },
+      "MY_Kedah": {
+        "name": "吉打",
+        "regions": {
+          "MY_Kedah_Padang Terap": {
+            "name": "巴东得腊"
+          },
+          "MY_Kedah_Pendang": {
+            "name": "笨筒"
+          },
+          "MY_Kedah_Langkawi": {
+            "name": "浮罗交怡"
+          },
+          "MY_Kedah_Kubang Pasu": {
+            "name": "古邦巴素"
+          },
+          "MY_Kedah_Kota Setar": {
+            "name": "哥打士打"
+          },
+          "MY_Kedah_Kuala Muda": {
+            "name": "瓜拉姆达"
+          },
+          "MY_Kedah_Baling": {
+            "name": "华玲"
+          },
+          "MY_Kedah_Kulim": {
+            "name": "居林"
+          },
+          "MY_Kedah_Bandar Baharu": {
+            "name": "万拉峇鲁"
+          }
+        }
+      },
+      "MY_Kelantan": {
+        "name": "吉兰丹",
+        "regions": {
+          "MY_Kelantan_Pasir Putih": {
+            "name": "巴西富地"
+          },
+          "MY_Kelantan_Pasir Mas": {
+            "name": "巴西马"
+          },
+          "MY_Kelantan_Tumpat": {
+            "name": "道北"
+          },
+          "MY_Kelantan_Tanah Merah": {
+            "name": "丹那美拉"
+          },
+          "MY_Kelantan_Bachok": {
+            "name": "登卓"
+          },
+          "MY_Kelantan_Kota Bharu": {
+            "name": "哥打巴鲁"
+          },
+          "MY_Kelantan_Kuala Krai": {
+            "name": "瓜拉吉赖"
+          },
+          "MY_Kelantan_Gua Musang": {
+            "name": "话望生"
+          },
+          "MY_Kelantan_Machang": {
+            "name": "马樟"
+          },
+          "MY_Kelantan_Jeli": {
+            "name": "日里"
+          }
+        }
+      },
+      "MY_Kuala Lumpur": {
+        "name": "吉隆坡",
+        "regions": {
+          "MY_Kuala Lumpur_Kuala Lumpur": {
+            "name": "吉隆坡"
+          }
+        }
+      },
+      "MY_Malacca": {
+        "name": "马六甲",
+        "regions": {
+          "MY_Malacca_Melaka": {
+            "name": "马六甲市"
+          },
+          "MY_Malacca_Alor Gajah": {
+            "name": "亚罗牙也"
+          },
+          "MY_Malacca_Jasin": {
+            "name": "野新"
+          }
+        }
+      },
+      "MY_Labuan": {
+        "name": "纳闽",
+        "regions": {
+          "MY_Labuan_Labuan": {
+            "name": "纳闽"
+          },
+          "MY_Labuan_Victoria": {
+            "name": "维多利亚"
+          }
+        }
+      },
+      "MY_Pahang": {
+        "name": "彭亨",
+        "regions": {
+          "MY_Pahang_Pekan": {
+            "name": "北根"
+          },
+          "MY_Pahang_Bera": {
+            "name": "百乐"
+          },
+          "MY_Pahang_Temerloh": {
+            "name": "淡马鲁"
+          },
+          "MY_Pahang_Jerantut": {
+            "name": "而连突"
+          },
+          "MY_Pahang_Kuantan": {
+            "name": "关丹"
+          },
+          "MY_Pahang_Cameron Highlands": {
+            "name": "金马仑高原"
+          },
+          "MY_Pahang_Kuala Lipis": {
+            "name": "立卑"
+          },
+          "MY_Pahang_Raub": {
+            "name": "劳勿"
+          },
+          "MY_Pahang_Maran": {
+            "name": "马兰"
+          },
+          "MY_Pahang_Bentong": {
+            "name": "文冬"
+          },
+          "MY_Pahang_Rompin": {
+            "name": "云冰"
+          }
+        }
+      },
+      "MY_Perak": {
+        "name": "霹雳",
+        "regions": {
+          "MY_Perak_Teluk Intan": {
+            "name": "安顺"
+          },
+          "MY_Perak_Tanjung Malim": {
+            "name": "丹绒马"
+          },
+          "MY_Perak_Batu Gajah": {
+            "name": "华都牙也"
+          },
+          "MY_Perak_Sungai Siput": {
+            "name": "和丰"
+          },
+          "MY_Perak_Kuala Kangsar": {
+            "name": "江沙"
+          },
+          "MY_Perak_Lumut": {
+            "name": "紅土坎"
+          },
+          "MY_Perak_Taiping": {
+            "name": "太平"
+          },
+          "MY_Perak_Ipoh": {
+            "name": "怡保"
+          }
+        }
+      },
+      "MY_Johor": {
+        "name": "柔佛",
+        "regions": {
+          "MY_Johor_Pontian": {
+            "name": "笨珍"
+          },
+          "MY_Johor_Mersing": {
+            "name": "丰盛港"
+          },
+          "MY_Johor_Kota Tinggi": {
+            "name": "哥打丁宜"
+          },
+          "MY_Johor_Kluang": {
+            "name": "居銮"
+          },
+          "MY_Johor_Muar": {
+            "name": "麻坡"
+          },
+          "MY_Johor_Segamat": {
+            "name": "昔加末"
+          },
+          "MY_Johor_Johor Bahru": {
+            "name": "新山"
+          },
+          "MY_Johor_Batu Pahat": {
+            "name": "峇株巴辖"
+          }
+        }
+      },
+      "MY_Sabah": {
+        "name": "沙巴",
+        "regions": {
+          "MY_Sabah_Papar": {
+            "name": "吧巴"
+          },
+          "MY_Sabah_Pitas": {
+            "name": "必达士"
+          },
+          "MY_Sabah_Beaufort": {
+            "name": "保佛"
+          },
+          "MY_Sabah_Beluran": {
+            "name": "比鲁兰"
+          },
+          "MY_Sabah_Penampang": {
+            "name": "兵南邦"
+          },
+          "MY_Sabah_Tambunan": {
+            "name": "担布南"
+          },
+          "MY_Sabah_Tawau": {
+            "name": "斗湖"
+          },
+          "MY_Sabah_Tenom": {
+            "name": "丹南"
+          },
+          "MY_Sabah_Tuaran": {
+            "name": "斗亚兰"
+          },
+          "MY_Sabah_Kudat": {
+            "name": "古达"
+          },
+          "MY_Sabah_Kota Kinabalu": {
+            "name": "哥打基纳巴鲁"
+          },
+          "MY_Sabah_Kota Belud": {
+            "name": "古打毛律"
+          },
+          "MY_Sabah_Kota Marudu": {
+            "name": "哥打马鲁都"
+          },
+          "MY_Sabah_Keningau": {
+            "name": "根地咬"
+          },
+          "MY_Sabah_Kuala Penyu": {
+            "name": "瓜拉班尤"
+          },
+          "MY_Sabah_Kunak": {
+            "name": "古纳"
+          },
+          "MY_Sabah_Kinabatangan": {
+            "name": "京那巴登岸"
+          },
+          "MY_Sabah_Ranau": {
+            "name": "兰脑"
+          },
+          "MY_Sabah_Nabawan": {
+            "name": "纳巴湾"
+          },
+          "MY_Sabah_Lahad Datu": {
+            "name": "拿笃"
+          },
+          "MY_Sabah_Sandakan": {
+            "name": "山打根"
+          },
+          "MY_Sabah_Semporna": {
+            "name": "仙本那"
+          },
+          "MY_Sabah_Sipitang": {
+            "name": "西比陶"
+          }
+        }
+      },
+      "MY_Sarawak": {
+        "name": "沙捞越",
+        "regions": {
+          "MY_Sarawak_Kuching": {
+            "name": "古晋"
+          },
+          "MY_Sarawak_Kapit": {
+            "name": "加帛"
+          },
+          "MY_Sarawak_Limbang": {
+            "name": "林梦"
+          },
+          "MY_Sarawak_Bintulu": {
+            "name": "民都鲁"
+          },
+          "MY_Sarawak_Mukah": {
+            "name": "木胶"
+          },
+          "MY_Sarawak_Miri": {
+            "name": "美里"
+          },
+          "MY_Sarawak_Betong": {
+            "name": "木中"
+          },
+          "MY_Sarawak_Sri Aman": {
+            "name": "斯里阿曼"
+          },
+          "MY_Sarawak_Sarikei": {
+            "name": "泗里街"
+          },
+          "MY_Sarawak_Samarahan": {
+            "name": "三马拉汉"
+          },
+          "MY_Sarawak_Sibu": {
+            "name": "泗务"
+          }
+        }
+      },
+      "MY_Negeri Sembilan": {
+        "name": "森美兰",
+        "regions": {
+          "MY_Negeri Sembilan_Port Dickson": {
+            "name": "波德申"
+          },
+          "MY_Negeri Sembilan_Tampin": {
+            "name": "淡边"
+          },
+          "MY_Negeri Sembilan_Seremban": {
+            "name": "芙蓉"
+          },
+          "MY_Negeri Sembilan_Kuala Pilah": {
+            "name": "瓜拉庇劳"
+          },
+          "MY_Negeri Sembilan_Rembau": {
+            "name": "林茂"
+          },
+          "MY_Negeri Sembilan_Jempol": {
+            "name": "仁保"
+          },
+          "MY_Negeri Sembilan_Jelebu": {
+            "name": "日叻务"
+          }
+        }
+      },
+      "MY_Selangor": {
+        "name": "雪兰莪",
+        "regions": {
+          "MY_Selangor_Petaling": {
+            "name": "八打灵"
+          },
+          "MY_Selangor_Gombak": {
+            "name": "鹅麦"
+          },
+          "MY_Selangor_Kuala Langat": {
+            "name": "瓜拉冷岳"
+          },
+          "MY_Selangor_Kuala Selangor": {
+            "name": "瓜拉雪兰莪"
+          },
+          "MY_Selangor_Sabak Bernam": {
+            "name": "沙白安南"
+          },
+          "MY_Selangor_Hulu Langat": {
+            "name": "乌鲁冷岳"
+          },
+          "MY_Selangor_Hulu Selangor": {
+            "name": "乌鲁雪兰莪"
+          },
+          "MY_Selangor_Sepang": {
+            "name": "雪邦"
+          }
+        }
+      }
+    }
+  },
+  "NZ": {
+    "name": "新西兰",
+    "regions": {
+      "NZ_Auckland": {
+        "name": "奥克兰"
+      },
+      "NZ_North Shore": {
+        "name": "北岸"
+      },
+      "NZ_Blenheim": {
+        "name": "布莱尼姆"
+      },
+      "NZ_Palmerston North": {
+        "name": "北帕默斯顿"
+      },
+      "NZ_Far North": {
+        "name": "北远"
+      },
+      "NZ_Dunedin": {
+        "name": "达尼丁"
+      },
+      "NZ_Greymouth": {
+        "name": "格雷茅斯"
+      },
+      "NZ_Hamilton": {
+        "name": "哈密尔顿"
+      },
+      "NZ_Hastings": {
+        "name": "黑斯廷斯"
+      },
+      "NZ_Waitakere": {
+        "name": "怀塔科拉"
+      },
+      "NZ_Gisborne": {
+        "name": "吉斯伯恩"
+      },
+      "NZ_Christchurch": {
+        "name": "克赖斯特彻奇"
+      },
+      "NZ_Kaipara": {
+        "name": "凯帕拉"
+      },
+      "NZ_Richmond": {
+        "name": "里士满"
+      },
+      "NZ_Manukau": {
+        "name": "马努考"
+      },
+      "NZ_Nelson": {
+        "name": "纳尔逊"
+      },
+      "NZ_Napier": {
+        "name": "内皮尔"
+      },
+      "NZ_Stratford": {
+        "name": "斯特拉特福德"
+      },
+      "NZ_Taumarunui": {
+        "name": "陶马鲁努伊"
+      },
+      "NZ_Whangarei": {
+        "name": "旺阿雷"
+      },
+      "NZ_Wanganui": {
+        "name": "旺格努伊"
+      },
+      "NZ_Whakatane": {
+        "name": "瓦卡塔尼"
+      },
+      "NZ_New Plymouth": {
+        "name": "新普利茅斯"
+      },
+      "NZ_Invercargill": {
+        "name": "因弗卡吉尔"
+      }
+    }
+  },
+  "FR": {
+    "name": "法国",
+    "regions": {
+      "FR_Arles": {
+        "name": "阿尔勒"
+      },
+      "FR_Orleans": {
+        "name": "奥尔良"
+      },
+      "FR_Aix-en-Provence": {
+        "name": "艾克斯"
+      },
+      "FR_Ajaccio": {
+        "name": "阿雅克修"
+      },
+      "FR_Paris": {
+        "name": "巴黎"
+      },
+      "FR_Besancon": {
+        "name": "贝桑松"
+      },
+      "FR_Dijon": {
+        "name": "第戎"
+      },
+      "FR_Frejus": {
+        "name": "弗雷瑞斯"
+      },
+      "FR_Lyon": {
+        "name": "里昂"
+      },
+      "FR_Rouen": {
+        "name": "鲁昂"
+      },
+      "FR_Lille": {
+        "name": "里尔"
+      },
+      "FR_Rennes": {
+        "name": "雷恩"
+      },
+      "FR_Limoges": {
+        "name": "利摩日"
+      },
+      "FR_Montpellier": {
+        "name": "蒙彼利埃"
+      },
+      "FR_Metz": {
+        "name": "梅斯"
+      },
+      "FR_Marseille": {
+        "name": "马赛"
+      },
+      "FR_Nice": {
+        "name": "尼斯"
+      },
+      "FR_Nantes": {
+        "name": "南特"
+      },
+      "FR_Caen": {
+        "name": "卡昂"
+      },
+      "FR_Chalons-en-Champagne": {
+        "name": "沙隆"
+      },
+      "FR_Toulouse": {
+        "name": "图卢兹"
+      },
+      "FR_Valence": {
+        "name": "瓦朗斯"
+      },
+      "FR_Amiens": {
+        "name": "亚眠"
+      }
+    }
+  },
+  "AT": {
+    "name": "奥地利",
+    "regions": {
+      "AT_Burgenland": {
+        "name": "布尔根兰"
+      },
+      "AT_Tyrol": {
+        "name": "蒂罗尔"
+      },
+      "AT_Vorarlberg": {
+        "name": "福拉尔贝格"
+      },
+      "AT_Carinthia": {
+        "name": "克恩顿"
+      },
+      "AT_Upper Austria": {
+        "name": "上奥地利"
+      },
+      "AT_Styria": {
+        "name": "施蒂利亚"
+      },
+      "AT_Salzburg": {
+        "name": "萨尔茨堡"
+      },
+      "AT_Vienna": {
+        "name": "维也纳"
+      },
+      "AT_Lower Austria": {
+        "name": "下奥地利"
+      }
+    }
+  },
+  "SG": {
+    "name": "新加坡"
+  },
+  "TH": {
+    "name": "泰国",
+    "regions": {
+      "TH_Amnat Charoen": {
+        "name": "安纳乍能"
+      },
+      "TH_Saraburi": {
+        "name": "北标"
+      },
+      "TH_Kanchanaburi": {
+        "name": "北碧"
+      },
+      "TH_Phetchabun": {
+        "name": "碧差汶"
+      },
+      "TH_Phatthalung": {
+        "name": "博达伦"
+      },
+      "TH_Pattani": {
+        "name": "北大年"
+      },
+      "TH_Samut Prakan": {
+        "name": "北揽"
+      },
+      "TH_Chachoengsao": {
+        "name": "北柳"
+      },
+      "TH_Nakhon Sawan": {
+        "name": "北榄坡"
+      },
+      "TH_Prachuap Khiri Khan": {
+        "name": "巴蜀"
+      },
+      "TH_Pathum Thani": {
+        "name": "巴吞他尼"
+      },
+      "TH_Prachin Buri": {
+        "name": "巴真"
+      },
+      "TH_Chai Nat": {
+        "name": "猜那"
+      },
+      "TH_Chumphon": {
+        "name": "春蓬"
+      },
+      "TH_Chon Buri": {
+        "name": "春武里"
+      },
+      "TH_Uttaradit": {
+        "name": "程逸"
+      },
+      "TH_Chaiyaphum": {
+        "name": "猜也奔"
+      },
+      "TH_Tak": {
+        "name": "达"
+      },
+      "TH_Phra Nakhon Si Ayutthaya": {
+        "name": "大城"
+      },
+      "TH_Trang": {
+        "name": "董里"
+      },
+      "TH_Trat": {
+        "name": "达叻"
+      },
+      "TH_Phetchaburi": {
+        "name": "佛丕"
+      },
+      "TH_Nakhon Pathom": {
+        "name": "佛统"
+      },
+      "TH_Kamphaeng Phet": {
+        "name": "甘烹碧"
+      },
+      "TH_Lop Buri": {
+        "name": "华富里"
+      },
+      "TH_Ang Thong": {
+        "name": "红统"
+      },
+      "TH_Kalasin": {
+        "name": "加拉信"
+      },
+      "TH_Krabi": {
+        "name": "甲米"
+      },
+      "TH_Chanthaburi": {
+        "name": "尖竹汶"
+      },
+      "TH_Khon Kaen": {
+        "name": "孔敬"
+      },
+      "TH_Loei": {
+        "name": "黎"
+      },
+      "TH_Nong Khai": {
+        "name": "廊开"
+      },
+      "TH_Nakhon Si Thammarat": {
+        "name": "洛坤"
+      },
+      "TH_Nong Bua Lamphu": {
+        "name": "廊莫那浦"
+      },
+      "TH_Rayong": {
+        "name": "拉农"
+      },
+      "TH_Ratchaburi": {
+        "name": "叻丕"
+      },
+      "TH_Ranong": {
+        "name": "罗勇"
+      },
+      "TH_Roi Et": {
+        "name": "黎逸"
+      },
+      "TH_Samut Sakhon": {
+        "name": "龙仔厝"
+      },
+      "TH_Mukdahan": {
+        "name": "莫达汉"
+      },
+      "TH_Bangkok": {
+        "name": "曼谷"
+      },
+      "TH_Maha Sarakham": {
+        "name": "玛哈沙拉堪"
+      },
+      "TH_Nan": {
+        "name": "难"
+      },
+      "TH_Lamphun": {
+        "name": "南奔"
+      },
+      "TH_Nakhon Nayok": {
+        "name": "那空那育"
+      },
+      "TH_Nakhon Phanom": {
+        "name": "那空帕农"
+      },
+      "TH_Nonthaburi": {
+        "name": "暖武里"
+      },
+      "TH_Phrae": {
+        "name": "帕"
+      },
+      "TH_Phuket": {
+        "name": "普吉"
+      },
+      "TH_Phichit": {
+        "name": "披集"
+      },
+      "TH_Phitsanulok": {
+        "name": "彭世洛"
+      },
+      "TH_Phayao": {
+        "name": "帕尧"
+      },
+      "TH_Phangnga": {
+        "name": "攀牙"
+      },
+      "TH_Chiang Rai": {
+        "name": "清莱"
+      },
+      "TH_Chiang Mai": {
+        "name": "清迈"
+      },
+      "TH_Satun": {
+        "name": "沙敦"
+      },
+      "TH_Sakon Nakhon": {
+        "name": "色军"
+      },
+      "TH_Sa Kaeo": {
+        "name": "沙缴"
+      },
+      "TH_Sukhothai": {
+        "name": "素可泰"
+      },
+      "TH_Surin": {
+        "name": "素林"
+      },
+      "TH_Surat Thani": {
+        "name": "素叻"
+      },
+      "TH_Suphan Buri": {
+        "name": "素攀武里"
+      },
+      "TH_Songkhla": {
+        "name": "宋卡"
+      },
+      "TH_Si sa ket": {
+        "name": "四色菊"
+      },
+      "TH_Narathiwat": {
+        "name": "陶公"
+      },
+      "TH_Udon Thani": {
+        "name": "乌隆"
+      },
+      "TH_Buri Ram": {
+        "name": "武里南"
+      },
+      "TH_Uthai Thani": {
+        "name": "乌泰他尼"
+      },
+      "TH_Ubon Ratchathani": {
+        "name": "乌汶"
+      },
+      "TH_Sing Buri": {
+        "name": "信武里"
+      },
+      "TH_Mae Hong Son": {
+        "name": "夜丰颂"
+      },
+      "TH_Samut Songkhram": {
+        "name": "夜功"
+      },
+      "TH_Yala": {
+        "name": "也拉"
+      },
+      "TH_Yasothon": {
+        "name": "耶梭通"
+      }
+    }
+  },
+  "AU": {
+    "name": "澳大利亚",
+    "regions": {
+      "AU_Northern Territory": {
+        "name": "北部地区",
+        "regions": {
+          "AU_Northern Territory_Palmerston": {
+            "name": "北帕默斯顿"
+          },
+          "AU_Northern Territory_Darwin": {
+            "name": "达尔文"
+          }
+        }
+      },
+      "AU_Canberra": {
+        "name": "堪培拉"
+      },
+      "AU_Queensland": {
+        "name": "昆士兰",
+        "regions": {
+          "AU_Queensland_Brisbane": {
+            "name": "布里斯班"
+          },
+          "AU_Queensland_Gold Coast": {
+            "name": "黄金海岸"
+          },
+          "AU_Queensland_Cairns": {
+            "name": "凯恩斯"
+          },
+          "AU_Queensland_Caloundra": {
+            "name": "卡罗旺德拉"
+          },
+          "AU_Queensland_Townsville": {
+            "name": "汤斯维尔"
+          },
+          "AU_Queensland_Toowoomba": {
+            "name": "图文巴"
+          }
+        }
+      },
+      "AU_South Australia": {
+        "name": "南澳大利亚",
+        "regions": {
+          "AU_South Australia_Adelaide": {
+            "name": "阿德莱德"
+          },
+          "AU_South Australia_Port Augusta": {
+            "name": "奥古斯塔"
+          },
+          "AU_South Australia_Mount Gambier": {
+            "name": "甘比亚山"
+          },
+          "AU_South Australia_Whyalla": {
+            "name": "怀阿拉"
+          },
+          "AU_South Australia_Port Lincoln": {
+            "name": "林肯港"
+          },
+          "AU_South Australia_Murray Bridge": {
+            "name": "默里布里奇"
+          },
+          "AU_South Australia_Port Pirie": {
+            "name": "皮里港"
+          },
+          "AU_South Australia_Victor Harbor": {
+            "name": "维克托港"
+          }
+        }
+      },
+      "AU_Tasmania": {
+        "name": "塔斯马尼亚",
+        "regions": {
+          "AU_Tasmania_Burnie": {
+            "name": "伯尼港"
+          },
+          "AU_Tasmania_Devonport": {
+            "name": "德文波特"
+          },
+          "AU_Tasmania_Hobart": {
+            "name": "霍巴特"
+          },
+          "AU_Tasmania_Launceston": {
+            "name": "朗塞斯顿"
+          }
+        }
+      },
+      "AU_Victoria": {
+        "name": "维多利亚",
+        "regions": {
+          "AU_Victoria_Geelong": {
+            "name": "吉朗"
+          },
+          "AU_Victoria_Melbourne": {
+            "name": "墨尔本"
+          }
+        }
+      },
+      "AU_Western Australia": {
+        "name": "西澳大利亚",
+        "regions": {
+          "AU_Western Australia_Albany": {
+            "name": "奥尔巴尼"
+          },
+          "AU_Western Australia_Bunbury": {
+            "name": "班伯里"
+          },
+          "AU_Western Australia_Fremantle": {
+            "name": "弗里曼特尔港"
+          },
+          "AU_Western Australia_Geraldton": {
+            "name": "杰拉尔顿"
+          },
+          "AU_Western Australia_Mandurah": {
+            "name": "曼哲拉"
+          },
+          "AU_Western Australia_Perth": {
+            "name": "珀斯"
+          },
+          "AU_Western Australia_Kalgoorlie": {
+            "name": "卡尔古利"
+          }
+        }
+      },
+      "AU_New South Wales": {
+        "name": "新南威尔士",
+        "regions": {
+          "AU_New South Wales_Newcastle": {
+            "name": "纽卡斯尔"
+          },
+          "AU_New South Wales_Wollongong": {
+            "name": "伍伦贡"
+          },
+          "AU_New South Wales_Sydney": {
+            "name": "悉尼"
+          }
+        }
+      }
+    }
+  },
+  "GB": {
+    "name": "英国",
+    "regions": {
+      "GB_Northern Ireland": {
+        "name": "北爱尔兰",
+        "regions": {
+          "GB_Northern Ireland_Belfast": {
+            "name": "贝尔法斯特"
+          },
+          "GB_Northern Ireland_Derry": {
+            "name": "德里"
+          },
+          "GB_Northern Ireland_Lisburn": {
+            "name": "利斯本"
+          },
+          "GB_Northern Ireland_Newry": {
+            "name": "纽里"
+          }
+        }
+      },
+      "GB_Scotland": {
+        "name": "苏格兰",
+        "regions": {
+          "GB_Scotland_Aberdeen": {
+            "name": "阿伯丁"
+          },
+          "GB_Scotland_Edinburgh": {
+            "name": "爱丁堡"
+          },
+          "GB_Scotland_Dundee": {
+            "name": "丹迪"
+          },
+          "GB_Scotland_Glasgow": {
+            "name": "格拉斯哥"
+          },
+          "GB_Scotland_Stirling": {
+            "name": "斯特灵"
+          },
+          "GB_Scotland_Inverness": {
+            "name": "因弗内斯"
+          }
+        }
+      },
+      "GB_Wales": {
+        "name": "威尔士",
+        "regions": {
+          "GB_Wales_Bangor": {
+            "name": "班戈"
+          },
+          "GB_Wales_Newport": {
+            "name": "纽波特"
+          },
+          "GB_Wales_Cardiff": {
+            "name": "卡迪夫"
+          },
+          "GB_Wales_Swansea": {
+            "name": "斯旺西"
+          }
+        }
+      },
+      "GB_England": {
+        "name": "英格兰",
+        "regions": {
+          "GB_England_Exeter": {
+            "name": "爱塞特"
+          },
+          "GB_England_Peterborough": {
+            "name": "彼得伯勒"
+          },
+          "GB_England_Bradford": {
+            "name": "布拉德福德"
+          },
+          "GB_England_Brighton & Hove": {
+            "name": "布莱顿霍夫"
+          },
+          "GB_England_Bristol": {
+            "name": "布里斯托尔"
+          },
+          "GB_England_Birmingham": {
+            "name": "伯明翰"
+          },
+          "GB_England_Bath": {
+            "name": "巴斯"
+          },
+          "GB_England_Derby": {
+            "name": "德比"
+          },
+          "GB_England_Durham": {
+            "name": "德罕"
+          },
+          "GB_England_Gloucester": {
+            "name": "格洛斯特"
+          },
+          "GB_England_Kingston upon Hull": {
+            "name": "赫尔河畔京斯敦"
+          },
+          "GB_England_Hereford": {
+            "name": "赫里福德"
+          },
+          "GB_England_Cambridge": {
+            "name": "剑桥"
+          },
+          "GB_England_Canterbury": {
+            "name": "坎特伯雷"
+          },
+          "GB_England_Coventry": {
+            "name": "考文垂"
+          },
+          "GB_England_London": {
+            "name": "伦敦"
+          },
+          "GB_England_Lincoln": {
+            "name": "林肯"
+          },
+          "GB_England_Lancaster": {
+            "name": "兰开斯特"
+          },
+          "GB_England_Ripon": {
+            "name": "里彭"
+          },
+          "GB_England_Lichfield": {
+            "name": "利奇菲尔德"
+          },
+          "GB_England_Leicester": {
+            "name": "列斯特"
+          },
+          "GB_England_Liverpool": {
+            "name": "利物浦"
+          },
+          "GB_England_Leeds": {
+            "name": "利茲"
+          },
+          "GB_England_Manchester": {
+            "name": "曼彻斯特"
+          },
+          "GB_England_Southampton": {
+            "name": "南安普敦"
+          },
+          "GB_England_Nottingham": {
+            "name": "诺丁汉"
+          },
+          "GB_England_Oxford": {
+            "name": "牛津"
+          },
+          "GB_England_Norwich": {
+            "name": "诺里奇"
+          },
+          "GB_England_Newcastle": {
+            "name": "纽卡斯尔"
+          },
+          "GB_England_Portsmouth": {
+            "name": "朴茨茅斯"
+          },
+          "GB_England_Plymouth": {
+            "name": "普利茅斯"
+          },
+          "GB_England_Preston": {
+            "name": "普雷斯顿"
+          },
+          "GB_England_Carlisle": {
+            "name": "卡莱尔"
+          },
+          "GB_England_Chichester": {
+            "name": "奇切斯特"
+          },
+          "GB_England_Chester": {
+            "name": "切斯特"
+          },
+          "GB_England_Saint Albans": {
+            "name": "圣阿本斯"
+          },
+          "GB_England_Sunderland": {
+            "name": "桑德兰"
+          },
+          "GB_England_Salisbury": {
+            "name": "索尔斯堡"
+          },
+          "GB_England_Salford": {
+            "name": "索福特"
+          },
+          "GB_England_Truro": {
+            "name": "特鲁罗"
+          },
+          "GB_England_Stoke-on-Trent": {
+            "name": "特伦特河畔斯多克"
+          },
+          "GB_England_Winchester": {
+            "name": "温彻斯特"
+          },
+          "GB_England_Wolverhampton": {
+            "name": "伍尔弗汉普顿"
+          },
+          "GB_England_Wells": {
+            "name": "威尔斯"
+          },
+          "GB_England_Wakefield": {
+            "name": "韦克菲尔德"
+          },
+          "GB_England_Worcester": {
+            "name": "伍斯特"
+          },
+          "GB_England_Sheffield": {
+            "name": "谢菲尔德"
+          },
+          "GB_England_York": {
+            "name": "约克"
+          },
+          "GB_England_Ely": {
+            "name": "伊利"
+          }
+        }
+      }
+    }
+  },
+  "US": {
+    "name": "美国",
+    "regions": {
+      "US_Idaho": {
+        "name": "爱达荷州",
+        "regions": {
+          "US_Idaho_Idaho Falls": {
+            "name": "爱达荷福尔斯"
+          },
+          "US_Idaho_Blackfoot": {
+            "name": "布莱克富特"
+          },
+          "US_Idaho_Pocatello": {
+            "name": "波卡特洛"
+          },
+          "US_Idaho_Boise": {
+            "name": "博伊西"
+          },
+          "US_Idaho_Coeur d'Alene": {
+            "name": "科达伦"
+          },
+          "US_Idaho_Lewiston": {
+            "name": "刘易斯顿"
+          },
+          "US_Idaho_Murphy": {
+            "name": "墨菲"
+          },
+          "US_Idaho_Moscow": {
+            "name": "莫斯科"
+          },
+          "US_Idaho_Nampa": {
+            "name": "楠帕"
+          },
+          "US_Idaho_Ketchum": {
+            "name": "岂彻姆"
+          },
+          "US_Idaho_Sun Valley": {
+            "name": "森瓦利"
+          },
+          "US_Idaho_American Falls": {
+            "name": "亚美利加瀑布城"
+          }
+        }
+      },
+      "US_Iowa": {
+        "name": "爱荷华",
+        "regions": {
+          "US_Iowa_Des Moines": {
+            "name": "得梅因"
+          },
+          "US_Iowa_Davenport": {
+            "name": "达文波特"
+          },
+          "US_Iowa_Cedar Rapids": {
+            "name": "锡达拉皮兹"
+          }
+        }
+      },
+      "US_Arkansas": {
+        "name": "阿肯色",
+        "regions": {
+          "US_Arkansas_Fayetteville": {
+            "name": "费耶特维尔"
+          },
+          "US_Arkansas_Fort Smith": {
+            "name": "史密斯堡"
+          },
+          "US_Arkansas_Little Rock": {
+            "name": "小石城"
+          }
+        }
+      },
+      "US_Alabama": {
+        "name": "阿拉巴马",
+        "regions": {
+          "US_Alabama_Birmingham": {
+            "name": "伯明罕"
+          },
+          "US_Alabama_Mobile": {
+            "name": "莫比尔"
+          },
+          "US_Alabama_Montgomery": {
+            "name": "蒙哥马利"
+          }
+        }
+      },
+      "US_Alaska": {
+        "name": "阿拉斯加",
+        "regions": {
+          "US_Alaska_Anchorage": {
+            "name": "安克雷奇"
+          },
+          "US_Alaska_Fairbanks": {
+            "name": "费尔班克斯"
+          },
+          "US_Alaska_Juneau": {
+            "name": "朱诺"
+          }
+        }
+      },
+      "US_North Dakota": {
+        "name": "北达科他",
+        "regions": {
+          "US_North Dakota_Bismarck": {
+            "name": "俾斯麦"
+          },
+          "US_North Dakota_Grand Forks": {
+            "name": "大福克斯"
+          },
+          "US_North Dakota_Fargo": {
+            "name": "法戈"
+          },
+          "US_North Dakota_Minot": {
+            "name": "迈诺特"
+          }
+        }
+      },
+      "US_North Carolina": {
+        "name": "北卡罗来纳",
+        "regions": {
+          "US_North Carolina_Asheville": {
+            "name": "艾许维尔"
+          },
+          "US_North Carolina_Durham": {
+            "name": "杜罕"
+          },
+          "US_North Carolina_Greensboro": {
+            "name": "格林斯伯勒"
+          },
+          "US_North Carolina_Chapel Hill": {
+            "name": "教堂山"
+          },
+          "US_North Carolina_Raleigh": {
+            "name": "罗利"
+          },
+          "US_North Carolina_Raleigh-Durham": {
+            "name": "洛利杜罕都会区"
+          },
+          "US_North Carolina_Charlotte": {
+            "name": "夏洛特"
+          }
+        }
+      },
+      "US_Pennsylvania": {
+        "name": "宾夕法尼亚",
+        "regions": {
+          "US_Pennsylvania_Allentown": {
+            "name": "阿伦敦"
+          },
+          "US_Pennsylvania_Philadephia": {
+            "name": "费城"
+          },
+          "US_Pennsylvania_Pittsburgh": {
+            "name": "匹兹堡"
+          }
+        }
+      },
+      "US_Texas": {
+        "name": "德州",
+        "regions": {
+          "US_Texas_El Paso": {
+            "name": "埃尔帕索"
+          },
+          "US_Texas_Austin": {
+            "name": "奥斯汀"
+          },
+          "US_Texas_Dallas": {
+            "name": "达拉斯"
+          },
+          "US_Texas_Corpus Christi": {
+            "name": "哥帕斯基斯蒂"
+          },
+          "US_Texas_Galveston": {
+            "name": "交维斯顿"
+          },
+          "US_Texas_Laredo": {
+            "name": "拉雷多"
+          },
+          "US_Texas_Mcallen": {
+            "name": "麦卡伦"
+          },
+          "US_Texas_San Antonio": {
+            "name": "圣安东尼奥"
+          },
+          "US_Texas_Houston": {
+            "name": "休斯敦"
+          }
+        }
+      },
+      "US_Ohio": {
+        "name": "俄亥俄",
+        "regions": {
+          "US_Ohio_Dayton": {
+            "name": "代顿"
+          },
+          "US_Ohio_Columbus": {
+            "name": "哥伦布"
+          },
+          "US_Ohio_Cleveland": {
+            "name": "克利夫兰"
+          },
+          "US_Ohio_Toledo": {
+            "name": "托莱多"
+          },
+          "US_Ohio_Cincinnati": {
+            "name": "辛辛那提"
+          }
+        }
+      },
+      "US_Oklahoma": {
+        "name": "俄克拉荷马",
+        "regions": {
+          "US_Oklahoma_Oklahoma City": {
+            "name": "俄克拉荷马城"
+          },
+          "US_Oklahoma_Norman": {
+            "name": "诺曼"
+          },
+          "US_Oklahoma_Tulsa": {
+            "name": "塔尔萨"
+          }
+        }
+      },
+      "US_Oregon": {
+        "name": "俄勒冈",
+        "regions": {
+          "US_Oregon_Bend": {
+            "name": "本德"
+          },
+          "US_Oregon_Portland": {
+            "name": "波特兰"
+          },
+          "US_Oregon_The Dalles": {
+            "name": "达尔斯"
+          },
+          "US_Oregon_Tillamook": {
+            "name": "蒂拉穆克"
+          },
+          "US_Oregon_Dallas": {
+            "name": "达拉斯"
+          },
+          "US_Oregon_Grant's Pass": {
+            "name": "格兰茨帕斯"
+          },
+          "US_Oregon_Hood River": {
+            "name": "胡德里弗"
+          },
+          "US_Oregon_Crater Lake": {
+            "name": "火山口湖"
+          },
+          "US_Oregon_Coos Bay": {
+            "name": "库斯贝"
+          },
+          "US_Oregon_Corvallis": {
+            "name": "科瓦利斯"
+          },
+          "US_Oregon_Medford": {
+            "name": "梅德福"
+          },
+          "US_Oregon_St Helens": {
+            "name": "圣海伦斯"
+          },
+          "US_Oregon_Salem": {
+            "name": "塞勒姆"
+          },
+          "US_Oregon_Springfield": {
+            "name": "斯普林菲尔德"
+          },
+          "US_Oregon_Eugene": {
+            "name": "尤金"
+          }
+        }
+      },
+      "US_Florida": {
+        "name": "佛罗里达",
+        "regions": {
+          "US_Florida_Orlando": {
+            "name": "奥兰多"
+          },
+          "US_Florida_Jacksonville": {
+            "name": "杰克逊维尔"
+          },
+          "US_Florida_Key West": {
+            "name": "基韦斯特"
+          },
+          "US_Florida_Fort Lauderdale": {
+            "name": "罗德岱堡"
+          },
+          "US_Florida_Miami": {
+            "name": "迈阿密"
+          },
+          "US_Florida_Cape Canaveral": {
+            "name": "卡纳维拉尔角"
+          },
+          "US_Florida_St. Petersburg": {
+            "name": "圣彼德斯堡市"
+          },
+          "US_Florida_Tallahassee": {
+            "name": "塔拉哈西"
+          },
+          "US_Florida_Tampa": {
+            "name": "坦帕"
+          }
+        }
+      },
+      "US_Vermont": {
+        "name": "佛蒙特",
+        "regions": {
+          "US_Vermont_Burlington": {
+            "name": "伯灵顿"
+          },
+          "US_Vermont_Rutland": {
+            "name": "拉特兰"
+          },
+          "US_Vermont_South Burlington": {
+            "name": "南伯灵顿"
+          }
+        }
+      },
+      "US_District of Columbia": {
+        "name": "哥伦比亚特区",
+        "regions": {
+          "US_District of Columbia_Washington D.C.": {
+            "name": "华盛顿哥伦比亚特区"
+          }
+        }
+      },
+      "US_Wyoming": {
+        "name": "怀俄明州",
+        "regions": {
+          "US_Wyoming_Evanston": {
+            "name": "埃文斯顿"
+          },
+          "US_Wyoming_Rock Springs": {
+            "name": "罗克斯普林斯"
+          },
+          "US_Wyoming_Laramie": {
+            "name": "拉勒米"
+          },
+          "US_Wyoming_Casper": {
+            "name": "卡斯帕"
+          },
+          "US_Wyoming_Sheridan": {
+            "name": "谢里登"
+          },
+          "US_Wyoming_Cheyenne": {
+            "name": "夏延"
+          }
+        }
+      },
+      "US_Washington": {
+        "name": "华盛顿",
+        "regions": {
+          "US_Washington_Spokane": {
+            "name": "斯波坎"
+          },
+          "US_Washington_Tacoma": {
+            "name": "塔科马"
+          },
+          "US_Washington_Seattle": {
+            "name": "西雅图"
+          }
+        }
+      },
+      "US_California": {
+        "name": "加利福尼亚",
+        "regions": {
+          "US_California_San Francisco": {
+            "name": "旧金山"
+          },
+          "US_California_Los Angeles": {
+            "name": "洛杉矶"
+          },
+          "US_California_San Diego": {
+            "name": "圣迭戈"
+          },
+          "US_California_San Jose": {
+            "name": "圣何塞"
+          }
+        }
+      },
+      "US_Colorado": {
+        "name": "科罗拉多",
+        "regions": {
+          "US_Colorado_Aurora": {
+            "name": "奥罗拉"
+          },
+          "US_Colorado_Aspen": {
+            "name": "阿斯彭"
+          },
+          "US_Colorado_Boulder": {
+            "name": "博尔德"
+          },
+          "US_Colorado_Denver": {
+            "name": "丹佛"
+          },
+          "US_Colorado_Grand Junction": {
+            "name": "大章克申"
+          },
+          "US_Colorado_Colorado Springs": {
+            "name": "科罗拉多斯普林斯"
+          },
+          "US_Colorado_Fort Collins": {
+            "name": "柯林斯堡"
+          },
+          "US_Colorado_Vail": {
+            "name": "韦尔"
+          }
+        }
+      },
+      "US_Connecticut": {
+        "name": "康涅狄格",
+        "regions": {
+          "US_Connecticut_Bridgeport": {
+            "name": "布里奇波特"
+          },
+          "US_Connecticut_Darien": {
+            "name": "达里恩"
+          },
+          "US_Connecticut_Greenwich": {
+            "name": "格林尼治"
+          },
+          "US_Connecticut_Hartford": {
+            "name": "哈特福德"
+          },
+          "US_Connecticut_Middletown": {
+            "name": "米德尔顿"
+          },
+          "US_Connecticut_New Haven": {
+            "name": "纽黑文"
+          },
+          "US_Connecticut_Westport": {
+            "name": "韦斯特波特"
+          },
+          "US_Connecticut_Waterbury": {
+            "name": "沃特伯里"
+          },
+          "US_Connecticut_New Britain": {
+            "name": "新不列颠"
+          }
+        }
+      },
+      "US_Kansas": {
+        "name": "堪萨斯",
+        "regions": {
+          "US_Kansas_Abilene": {
+            "name": "阿比林"
+          },
+          "US_Kansas_Overland Park": {
+            "name": "奥弗兰公园"
+          },
+          "US_Kansas_Hutchinson": {
+            "name": "哈钦森"
+          },
+          "US_Kansas_Kansas City": {
+            "name": "堪萨斯城"
+          },
+          "US_Kansas_Lawrence": {
+            "name": "劳伦斯"
+          },
+          "US_Kansas_Leavenworth": {
+            "name": "莱文沃思"
+          },
+          "US_Kansas_Manhattan": {
+            "name": "曼哈顿"
+          },
+          "US_Kansas_Topeka": {
+            "name": "托皮卡"
+          },
+          "US_Kansas_Wichita": {
+            "name": "威奇托"
+          }
+        }
+      },
+      "US_Kentucky": {
+        "name": "肯塔基",
+        "regions": {
+          "US_Kentucky_Lexington": {
+            "name": "列克星敦"
+          },
+          "US_Kentucky_Louisville": {
+            "name": "路易斯维尔"
+          },
+          "US_Kentucky_Owensboro": {
+            "name": "欧文斯伯勒"
+          }
+        }
+      },
+      "US_Rhode Island": {
+        "name": "罗德岛",
+        "regions": {
+          "US_Rhode Island_Pawtucket": {
+            "name": "波塔基特"
+          },
+          "US_Rhode Island_Cranston": {
+            "name": "克兰斯顿"
+          },
+          "US_Rhode Island_Newport": {
+            "name": "纽波特"
+          },
+          "US_Rhode Island_Providence": {
+            "name": "普罗维登斯"
+          },
+          "US_Rhode Island_Woonsocket": {
+            "name": "文索基特"
+          },
+          "US_Rhode Island_Westerly": {
+            "name": "韦斯特利"
+          },
+          "US_Rhode Island_Warwick": {
+            "name": "沃威克"
+          }
+        }
+      },
+      "US_Louisiana": {
+        "name": "路易斯安那",
+        "regions": {
+          "US_Louisiana_Baton Rouge": {
+            "name": "巴吞鲁日"
+          },
+          "US_Louisiana_Shreveport": {
+            "name": "什里夫波特"
+          },
+          "US_Louisiana_New Orleans": {
+            "name": "新奥尔良"
+          }
+        }
+      },
+      "US_Montana": {
+        "name": "蒙大拿",
+        "regions": {
+          "US_Montana_Billings": {
+            "name": "比灵斯"
+          },
+          "US_Montana_Great Falls": {
+            "name": "大瀑布村"
+          },
+          "US_Montana_Missoula": {
+            "name": "米苏拉"
+          }
+        }
+      },
+      "US_Maryland": {
+        "name": "马里兰",
+        "regions": {
+          "US_Maryland_Balitmore": {
+            "name": "巴尔的摩"
+          },
+          "US_Maryland_Gaithersburg": {
+            "name": "盖瑟斯堡"
+          },
+          "US_Maryland_Rockville": {
+            "name": "罗克维尔"
+          }
+        }
+      },
+      "US_Minnesota": {
+        "name": "明尼苏达",
+        "regions": {
+          "US_Minnesota_Rochester": {
+            "name": "罗切斯特"
+          },
+          "US_Minnesota_Minneapolis": {
+            "name": "明尼阿波利斯"
+          },
+          "US_Minnesota_Saint Paul": {
+            "name": "圣保罗"
+          }
+        }
+      },
+      "US_Missouri": {
+        "name": "密苏里",
+        "regions": {
+          "US_Missouri_Columbia": {
+            "name": "哥伦比亚"
+          },
+          "US_Missouri_Jefferson City": {
+            "name": "杰佛逊市"
+          },
+          "US_Missouri_Kansas City": {
+            "name": "堪萨斯城"
+          },
+          "US_Missouri_Saint Louis": {
+            "name": "圣路易斯"
+          },
+          "US_Missouri_Springfield": {
+            "name": "斯普林菲尔德"
+          }
+        }
+      },
+      "US_Massachusetts": {
+        "name": "马萨诸塞",
+        "regions": {
+          "US_Massachusetts_Boston": {
+            "name": "波士顿"
+          },
+          "US_Massachusetts_Springfield": {
+            "name": "斯普林菲尔德"
+          },
+          "US_Massachusetts_Worcester": {
+            "name": "伍斯特"
+          }
+        }
+      },
+      "US_Michigan": {
+        "name": "密歇根",
+        "regions": {
+          "US_Michigan_Ann Arbor": {
+            "name": "安娜堡"
+          },
+          "US_Michigan_Bay City": {
+            "name": "贝城"
+          },
+          "US_Michigan_Battle Creek": {
+            "name": "巴特尔克里克"
+          },
+          "US_Michigan_Dearborn": {
+            "name": "迪尔伯恩"
+          },
+          "US_Michigan_Grand Rapids": {
+            "name": "大急流城"
+          },
+          "US_Michigan_Detroit": {
+            "name": "底特律"
+          },
+          "US_Michigan_Flint": {
+            "name": "弗林特"
+          },
+          "US_Michigan_Wyandotte": {
+            "name": "怀恩多特"
+          },
+          "US_Michigan_Lansing": {
+            "name": "兰辛"
+          },
+          "US_Michigan_Muskegon": {
+            "name": "马斯基根"
+          },
+          "US_Michigan_Pontiac": {
+            "name": "庞菷亚克"
+          },
+          "US_Michigan_Kalamazoo": {
+            "name": "卡拉马袓"
+          },
+          "US_Michigan_Saginaw": {
+            "name": "萨吉诺"
+          },
+          "US_Michigan_Sault Ste Marie": {
+            "name": "苏圣玛丽"
+          },
+          "US_Michigan_Warren": {
+            "name": "沃伦"
+          },
+          "US_Michigan_Port Huron": {
+            "name": "休伦港"
+          }
+        }
+      },
+      "US_Mississippi": {
+        "name": "密西西比",
+        "regions": {
+          "US_Mississippi_Biloxi": {
+            "name": "比洛克西"
+          },
+          "US_Mississippi_Gulfport": {
+            "name": "格尔夫波特"
+          },
+          "US_Mississippi_Greenville": {
+            "name": "格林维尔"
+          },
+          "US_Mississippi_Hattiesburg": {
+            "name": "哈蒂斯堡"
+          },
+          "US_Mississippi_Jackson": {
+            "name": "杰克逊"
+          },
+          "US_Mississippi_Meridian": {
+            "name": "默里迪恩"
+          },
+          "US_Mississippi_Vicksburg": {
+            "name": "维克斯堡"
+          }
+        }
+      },
+      "US_Maine": {
+        "name": "缅因",
+        "regions": {
+          "US_Maine_Bangor": {
+            "name": "班戈"
+          },
+          "US_Maine_Portland": {
+            "name": "波特兰"
+          },
+          "US_Maine_Lewiston": {
+            "name": "刘易斯顿"
+          }
+        }
+      },
+      "US_Nebraska": {
+        "name": "内布拉斯加",
+        "regions": {
+          "US_Nebraska_Omaha": {
+            "name": "奥马哈"
+          },
+          "US_Nebraska_Bellevue": {
+            "name": "贝尔维尤"
+          },
+          "US_Nebraska_Lincoln": {
+            "name": "林肯"
+          }
+        }
+      },
+      "US_South Dakota": {
+        "name": "南达科他",
+        "regions": {
+          "US_South Dakota_Aberdeen": {
+            "name": "阿伯丁"
+          },
+          "US_South Dakota_Rapid City": {
+            "name": "拉皮德城"
+          },
+          "US_South Dakota_Sioux Falls": {
+            "name": "苏福尔斯"
+          }
+        }
+      },
+      "US_Nevada": {
+        "name": "内华达州",
+        "regions": {
+          "US_Nevada_Elko": {
+            "name": "埃尔科"
+          },
+          "US_Nevada_North Las Vegas": {
+            "name": "北拉斯维加斯"
+          },
+          "US_Nevada_Virginia City": {
+            "name": "弗吉尼亚城"
+          },
+          "US_Nevada_Henderson": {
+            "name": "亨德森"
+          },
+          "US_Nevada_Reno": {
+            "name": "里诺"
+          },
+          "US_Nevada_Las Vegas": {
+            "name": "拉斯维加斯"
+          },
+          "US_Nevada_Carson City": {
+            "name": "卡森城"
+          },
+          "US_Nevada_Sparks": {
+            "name": "斯帕克斯"
+          }
+        }
+      },
+      "US_South Carolina": {
+        "name": "南卡罗来纳",
+        "regions": {
+          "US_South Carolina_North Charleston": {
+            "name": "北查尔斯顿"
+          },
+          "US_South Carolina_Charleston": {
+            "name": "查尔斯顿"
+          },
+          "US_South Carolina_Columbia": {
+            "name": "哥伦比亚"
+          }
+        }
+      },
+      "US_New York": {
+        "name": "纽约",
+        "regions": {
+          "US_New York_Buffalo": {
+            "name": "布法罗"
+          },
+          "US_New York_Rochester": {
+            "name": "罗切斯特"
+          },
+          "US_New York_New York": {
+            "name": "纽约市"
+          }
+        }
+      },
+      "US_Delaware": {
+        "name": "特拉华",
+        "regions": {
+          "US_Delaware_Dover": {
+            "name": "多佛"
+          },
+          "US_Delaware_Newark": {
+            "name": "纽瓦克"
+          },
+          "US_Delaware_Wilmington": {
+            "name": "威明顿"
+          }
+        }
+      },
+      "US_Tennessee": {
+        "name": "田纳西",
+        "regions": {
+          "US_Tennessee_Bristol": {
+            "name": "布利斯托"
+          },
+          "US_Tennessee_Chattanooga": {
+            "name": "查塔努加"
+          },
+          "US_Tennessee_Kingsport": {
+            "name": "金斯波特"
+          },
+          "US_Tennessee_Memphis": {
+            "name": "孟菲斯"
+          },
+          "US_Tennessee_Knoxville": {
+            "name": "诺克斯维尔"
+          },
+          "US_Tennessee_Nashville": {
+            "name": "纳什维尔"
+          },
+          "US_Tennessee_Tri-City Area": {
+            "name": "三城区"
+          },
+          "US_Tennessee_Smyrna": {
+            "name": "士麦那"
+          },
+          "US_Tennessee_Spring Hill": {
+            "name": "斯普林希尔"
+          },
+          "US_Tennessee_Johnson City": {
+            "name": "约翰逊城"
+          }
+        }
+      },
+      "US_Virginia": {
+        "name": "维吉尼亚",
+        "regions": {
+          "US_Virginia_Virginia Beach": {
+            "name": "弗吉尼亚比奇"
+          },
+          "US_Virginia_Norfolk": {
+            "name": "诺福克"
+          },
+          "US_Virginia_Chesapeake": {
+            "name": "切萨皮克"
+          }
+        }
+      },
+      "US_Wisconsin": {
+        "name": "威斯康星",
+        "regions": {
+          "US_Wisconsin_Appleton": {
+            "name": "阿普尓顿"
+          },
+          "US_Wisconsin_Oshkosh": {
+            "name": "奥什科什"
+          },
+          "US_Wisconsin_Green Bay": {
+            "name": "格林贝"
+          },
+          "US_Wisconsin_Kenosha": {
+            "name": "基诺沙"
+          },
+          "US_Wisconsin_Lacrosse": {
+            "name": "拉克罗斯"
+          },
+          "US_Wisconsin_Racine": {
+            "name": "拉辛"
+          },
+          "US_Wisconsin_Madison": {
+            "name": "迈迪逊"
+          },
+          "US_Wisconsin_Milwaukee": {
+            "name": "密尔沃基"
+          },
+          "US_Wisconsin_Manitowoc": {
+            "name": "马尼托沃克"
+          },
+          "US_Wisconsin_Eau Claire": {
+            "name": "欧克莱尓"
+          },
+          "US_Wisconsin_Wausau": {
+            "name": "沃索"
+          },
+          "US_Wisconsin_Sheboygan": {
+            "name": "希博伊根"
+          }
+        }
+      },
+      "US_West Virginia": {
+        "name": "西佛吉尼亚",
+        "regions": {
+          "US_West Virginia_Charleston": {
+            "name": "查尔斯顿"
+          },
+          "US_West Virginia_Huntington": {
+            "name": "亨廷顿"
+          },
+          "US_West Virginia_Parkersburg": {
+            "name": "帕克斯堡"
+          }
+        }
+      },
+      "US_New Hampshire": {
+        "name": "新罕布什尔",
+        "regions": {
+          "US_New Hampshire_Concord": {
+            "name": "康科德"
+          },
+          "US_New Hampshire_Manchester": {
+            "name": "曼彻斯特"
+          },
+          "US_New Hampshire_Nashua": {
+            "name": "纳舒厄"
+          }
+        }
+      },
+      "US_New Mexico": {
+        "name": "新墨西哥",
+        "regions": {
+          "US_New Mexico_Albuquerque": {
+            "name": "阿尔伯克基"
+          },
+          "US_New Mexico_Las Cruces": {
+            "name": "拉斯克鲁塞斯"
+          },
+          "US_New Mexico_Roswell": {
+            "name": "罗斯韦尔"
+          },
+          "US_New Mexico_Santa Fe": {
+            "name": "圣菲"
+          }
+        }
+      },
+      "US_Hawaii": {
+        "name": "夏威夷",
+        "regions": {
+          "US_Hawaii_Kailua": {
+            "name": "凯卢阿"
+          },
+          "US_Hawaii_Honolulu": {
+            "name": "檀香山"
+          },
+          "US_Hawaii_Hilo": {
+            "name": "希洛"
+          }
+        }
+      },
+      "US_New Jersey": {
+        "name": "新泽西",
+        "regions": {
+          "US_New Jersey_Newark": {
+            "name": "纽瓦克"
+          },
+          "US_New Jersey_Paterson": {
+            "name": "帕特森"
+          },
+          "US_New Jersey_Jersey City": {
+            "name": "泽西城"
+          }
+        }
+      },
+      "US_Indiana": {
+        "name": "印第安那",
+        "regions": {
+          "US_Indiana_Evansville": {
+            "name": "埃文斯维尔"
+          },
+          "US_Indiana_Fort Wayne": {
+            "name": "韦恩堡"
+          },
+          "US_Indiana_Indianapolis": {
+            "name": "印第安纳波利斯"
+          }
+        }
+      },
+      "US_Illinois": {
+        "name": "伊利诺斯州",
+        "regions": {
+          "US_Illinois_Alton": {
+            "name": "奥尔顿"
+          },
+          "US_Illinois_Aurora": {
+            "name": "奥罗拉"
+          },
+          "US_Illinois_Bloomington": {
+            "name": "布卢明顿"
+          },
+          "US_Illinois_Decatur": {
+            "name": "迪凯特"
+          },
+          "US_Illinois_De Kalb": {
+            "name": "迪卡尔布"
+          },
+          "US_Illinois_East St Louis": {
+            "name": "东圣路易斯"
+          },
+          "US_Illinois_Danville": {
+            "name": "丹维尓"
+          },
+          "US_Illinois_Champaign-Urbana": {
+            "name": "厄巴纳-香槟"
+          },
+          "US_Illinois_Galesburg": {
+            "name": "盖尔斯堡"
+          },
+          "US_Illinois_Rock Island": {
+            "name": "罗克艾兰"
+          },
+          "US_Illinois_Rockford": {
+            "name": "罗克福德"
+          },
+          "US_Illinois_Normal": {
+            "name": "诺黙尔"
+          },
+          "US_Illinois_Peoria": {
+            "name": "皮奥里亚"
+          },
+          "US_Illinois_Carbondale": {
+            "name": "卡本代尔"
+          },
+          "US_Illinois_Springfield": {
+            "name": "斯普林菲尔德"
+          },
+          "US_Illinois_Centralia": {
+            "name": "森特勒利亚"
+          },
+          "US_Illinois_Waukegan": {
+            "name": "沃其根"
+          },
+          "US_Illinois_Chicago": {
+            "name": "芝加哥"
+          }
+        }
+      },
+      "US_Arizona": {
+        "name": "亚利桑那",
+        "regions": {
+          "US_Arizona_Phoenix": {
+            "name": "凤凰城"
+          },
+          "US_Arizona_Glendale": {
+            "name": "格兰代尔"
+          },
+          "US_Arizona_Mesa": {
+            "name": "梅萨"
+          },
+          "US_Arizona_Scottsdale": {
+            "name": "史卡兹代尔"
+          },
+          "US_Arizona_Tempe": {
+            "name": "坦普"
+          },
+          "US_Arizona_Tucson": {
+            "name": "图森"
+          },
+          "US_Arizona_Yuma": {
+            "name": "优玛"
+          }
+        }
+      },
+      "US_Utah": {
+        "name": "犹他",
+        "regions": {
+          "US_Utah_Ogden": {
+            "name": "奥格登"
+          },
+          "US_Utah_Layton": {
+            "name": "雷登"
+          },
+          "US_Utah_Orem": {
+            "name": "欧仁"
+          },
+          "US_Utah_Park City": {
+            "name": "帕克城"
+          },
+          "US_Utah_Provo": {
+            "name": "普罗沃"
+          },
+          "US_Utah_St.George": {
+            "name": "圣乔治"
+          },
+          "US_Utah_West Valley City": {
+            "name": "西瓦利城"
+          },
+          "US_Utah_Salt Lake City": {
+            "name": "盐湖城"
+          }
+        }
+      },
+      "US_Georgia": {
+        "name": "佐治亚",
+        "regions": {
+          "US_Georgia_Augusta": {
+            "name": "奥古斯塔"
+          },
+          "US_Georgia_Columbus": {
+            "name": "哥伦布"
+          },
+          "US_Georgia_Macon": {
+            "name": "梅肯"
+          },
+          "US_Georgia_Savannah": {
+            "name": "沙瓦纳"
+          },
+          "US_Georgia_Atlanta": {
+            "name": "亚特兰大"
+          }
+        }
+      }
+    }
+  },
+  "CA": {
+    "name": "加拿大",
+    "regions": {
+      "CA_Abbotsford": {
+        "name": "阿伯茨福"
+      },
+      "CA_Edmonton": {
+        "name": "埃德蒙顿"
+      },
+      "CA_Oshawa": {
+        "name": "奥沙瓦"
+      },
+      "CA_Barrie": {
+        "name": "巴里"
+      },
+      "CA_Cape Breton": {
+        "name": "布列塔尼角"
+      },
+      "CA_Toronto": {
+        "name": "多伦多"
+      },
+      "CA_Fredericton": {
+        "name": "弗雷德里顿"
+      },
+      "CA_Guelph": {
+        "name": "圭尔夫"
+      },
+      "CA_Halifax": {
+        "name": "哈利法克斯"
+      },
+      "CA_Hamilton": {
+        "name": "哈密尔顿"
+      },
+      "CA_Whitehorse": {
+        "name": "怀特霍斯"
+      },
+      "CA_Kelowna": {
+        "name": "基劳纳"
+      },
+      "CA_Brampton": {
+        "name": "基奇纳"
+      },
+      "CA_Kingston": {
+        "name": "金斯敦"
+      },
+      "CA_Quebec": {
+        "name": "魁北克"
+      },
+      "CA_London": {
+        "name": "伦敦"
+      },
+      "CA_Regina": {
+        "name": "里贾纳"
+      },
+      "CA_Montreal": {
+        "name": "蒙特利尔"
+      },
+      "CA_Calgary": {
+        "name": "卡里加里"
+      },
+      "CA_Sherbrooke": {
+        "name": "舍布鲁克"
+      },
+      "CA_Thunder Bay": {
+        "name": "桑德贝"
+      },
+      "CA_Sudbury": {
+        "name": "萨德伯里"
+      },
+      "CA_Trois-Rivieres": {
+        "name": "三河城"
+      },
+      "CA_St. Catharines": {
+        "name": "圣卡塔琳娜"
+      },
+      "CA_Saskatoon": {
+        "name": "萨斯卡通"
+      },
+      "CA_Saint-John's": {
+        "name": "圣约翰斯"
+      },
+      "CA_Victoria": {
+        "name": "维多利亚"
+      },
+      "CA_Vancouver": {
+        "name": "温哥华"
+      },
+      "CA_Winnipeg": {
+        "name": "温尼伯"
+      },
+      "CA_Windsor": {
+        "name": "温莎"
+      },
+      "CA_Ottawa": {
+        "name": "渥太华"
+      },
+      "CA_Charlottetown": {
+        "name": "夏洛特敦"
+      },
+      "CA_Iqaluit": {
+        "name": "伊魁特"
+      },
+      "CA_Yellowknife": {
+        "name": "耶洛奈夫"
+      }
+    }
+  }
+}
