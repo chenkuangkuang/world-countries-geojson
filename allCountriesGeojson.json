@@ -24922,7 +24922,9 @@
       "type": "Feature",
       "id": "-99",
       "properties": {
-        "name_used": "Northern Cyprus"
+        "name_used": "Northern Cyprus",
+        "cname": "北塞浦路斯",
+        "remark": "'北塞浦路斯土耳其共和国'（土耳其语：Kuzey Kıbrıs Türk Cumhuriyeti，缩写为KKTC，希腊语：Τουρκική Δημοκρατία της Βόρειας Κύπρου，缩写为ΤΔΒΚ）是一个位于塞浦路斯岛北部，尚未受到国际社会普遍承认的政治实体。这个主要是由塞浦路斯岛上的土耳其后裔建立的政权控制了岛上北边约37%面积的领土，并且在1974年时宣布独立建国，但全世界只有土耳其承认北塞浦路斯。"
       },
       "geometry": {
         "type": "Polygon",
@@ -32419,7 +32421,8 @@
         "phone_code": "240",
         "cities": [],
         "cname": "赤道几内亚",
-        "name_used": "Equatorial Guinea"
+        "name_used": "Equatorial Guinea",
+        "remark": "赤道几内亚（西班牙语：República de Guinea Ecuatorial），位于非洲中西部，西临大西洋，北邻喀麦隆，东、南与加蓬接壤。由大陆上的木尼河地区和几内亚湾内的比奥科、安诺本、科里斯科等岛屿组成。"
       },
       "geometry": {
         "type": "Polygon",
@@ -33765,7 +33768,7 @@
         "cname": "法属圭亚那",
         "full_cname": "法属圭亚那",
         "lower_name": "",
-        "remark": ""
+        "remark": "法属圭亚那，南美洲北海岸的地区、法国的海外省份，热带雨林气候，面积8.3534万平方公里，人口28.98万，欧洲航天发射中心位于此地，因此闻名于世。法属圭亚那是法国领土的一部分，由法国中央政府直接管辖，名义上不可称之为殖民地，因此它也是欧洲联盟的一部分。"
       },
       "geometry": {
         "type": "Polygon",
@@ -44406,7 +44409,9 @@
       "type": "Feature",
       "id": "CS-KM",
       "properties": {
-        "name_used": "Kosovo"
+        "name_used": "Kosovo",
+        "cname": "科索沃",
+        "remark": "科索沃是塞尔维亚的一个自治省。科索沃于2008年2月17日通过独立宣言，宣布脱离塞尔维亚。除塞尔维亚、俄罗斯和中国等90个国家外，目前获得了108个国家和地区的承认。"
       },
       "geometry": {
         "type": "Polygon",
@@ -49784,7 +49789,8 @@
         "phone_code": "382",
         "cities": [],
         "cname": "黑山",
-        "name_used": "Montenegro"
+        "name_used": "Montenegro",
+        "remark": "黑山（黑山语：Crna Gora，英语：Montenegro），是位于欧洲巴尔干半岛西南部，面积1.38万平方公里，人口62.2万（2019年） [1]  ，东北部与塞尔维亚毗连，东南部与阿尔巴尼亚接壤，西北部与波黑及克罗地亚交界，西南部濒临亚得里亚海。"
       },
       "geometry": {
         "type": "Polygon",
@@ -64307,7 +64313,9 @@
         "subregion": "Northern Africa",
         "phone_code": "212",
         "cities": [],
-        "name_used": "Western Sahara"
+        "cname": "西撒哈拉",
+        "name_used": "Western Sahara",
+        "remark": "阿拉伯撒哈拉民主共和国（阿拉伯语：الصحراء الغربية‎，西班牙语：Sáhara Occidental）简称西撒哈拉，位于非洲西北部，地处撒哈拉沙漠西部，濒临大西洋，与摩洛哥、毛里塔尼亚、阿尔及利亚相邻。该地是一个有争议地区，摩洛哥声明对此地区拥有主权"
       },
       "geometry": {
         "type": "Polygon",
@@ -65402,7 +65410,8 @@
         "phone_code": "211",
         "cities": [],
         "cname": "南苏丹",
-        "name_used": "South Sudan"
+        "name_used": "South Sudan",
+        "remark": "南苏丹共和国（英语：The Republic of South Sudan），简称”南苏丹“（South Sudan），是东非的一个内陆国家，全国分为10个州。国土总面积619745平方公里，人口约1190万（2016年2月）。南苏丹东与埃塞俄比亚接壤，西与中非共和国为邻，南与刚果民主共和国、肯尼亚和乌干达毗连，北部邻近苏丹。首都为朱巴（南苏丹总统基尔于2011年9月发布命令，决定把拉姆塞尔定为该国新首都，并计划在5至8年内完成迁都）。"
       },
       "geometry": {
         "type": "Polygon",
@@ -67008,7 +67017,8 @@
         "phone_code": "381",
         "cities": [],
         "cname": "塞尔维亚",
-        "name_used": "Republic of Serbia"
+        "name_used": "Republic of Serbia",
+        "remark": "塞尔维亚共和国（塞尔维亚语：Република Србија或Republika Srbija），简称塞尔维亚，是位于欧洲东南部，巴尔干半岛中部的内陆国。塞尔维亚国土总面积为88361平方公里（含科索沃），首都贝尔格莱德。与黑山、波斯尼亚和黑塞哥维那、克罗地亚、匈牙利、罗马尼亚、保加利亚、北马其顿及阿尔巴尼亚接壤，欧洲第二大河多瑙河的五分之一流经其境内。"
       },
       "geometry": {
         "type": "Polygon",
@@ -70269,7 +70279,7 @@
         "cname": "塔吉克斯坦",
         "full_cname": "塔吉克斯坦共和国",
         "lower_name": "the republic of tajikistan",
-        "remark": ""
+        "remark": "塔吉克斯坦共和国（塔吉克语：Ҷумҳурии Тоҷикистон，英语：The Republic of Tajikistan），简称塔吉克斯坦，位于阿富汗斯坦、乌兹别克斯坦、吉尔吉斯斯坦和中国之间，是中亚五国中唯一主体民族非突厥族系的国家，也是中亚五国中国土面积最小的国家。"
       },
       "geometry": {
         "type": "Polygon",
