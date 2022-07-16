@@ -48,4 +48,13 @@ try {
 }
 
 
+// const allCountriesGeojson = require('./allCountriesGeojson.json');
 
+// let noCnameArr = [];
+// for (var i of allCountriesGeojson.features) {
+//   const pro = i.properties;
+//   if (!pro.remark) {
+//     noCnameArr.push(pro)
+//   }
+// }
+// console.log('=noCnameArr=', noCnameArr);
