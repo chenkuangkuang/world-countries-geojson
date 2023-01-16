@@ -5131,7 +5131,43 @@
           },
           {
             "StationID": "shanxisheng2",
-            "StationName": "陕西省"
+            "StationName": "陕西省",
+            "City": [{
+              "CityID": "shangluoshi",
+              "CityName": "商洛市"
+              },
+              {
+              "CityID": "hanzhongshi",
+              "CityName": "汉中市"
+              },
+              {
+              "CityID": "touchuanshi",
+              "CityName": "铜川市"
+              },
+              {
+              "CityID": "yulinshi",
+              "CityName": "榆林市"
+              },
+              {
+              "CityID": "yananshi",
+              "CityName": "延安市"
+              },{
+              "CityID": "baojishi",
+              "CityName": "宝鸡市"
+              },{
+              "CityID": "weinanshi",
+              "CityName": "渭南市"
+              },{
+              "CityID": "xianshi",
+              "CityName": "西安市"
+              },{
+              "CityID": "xianyangshi",
+              "CityName": "咸阳市"
+              },{
+              "CityID": "ankangshi",
+              "CityName": "安康市"
+              }
+            ]
           },
           {
             "StationID": "tianjinshi",
